@@ -1,0 +1,12 @@
+\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\EntityLayer\bin\Debug\EntityLayer.exe.config
+\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\EntityLayer\bin\Debug\EntityLayer.exe
+\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\EntityLayer\bin\Debug\EntityLayer.pdb
+\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\EntityLayer\bin\Debug\EntityFramework.dll
+\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\EntityLayer\bin\Debug\EntityFramework.SqlServer.dll
+\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\EntityLayer\bin\Debug\EntityFramework.xml
+\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\EntityLayer\bin\Debug\EntityFramework.SqlServer.xml
+\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\EntityLayer\obj\Debug\EntityLayer.csprojAssemblyReference.cache
+\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\EntityLayer\obj\Debug\EntityLayer.csproj.CopyComplete
+\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\EntityLayer\obj\Debug\EntityLayer.exe
+\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\EntityLayer\obj\Debug\EntityLayer.pdb
