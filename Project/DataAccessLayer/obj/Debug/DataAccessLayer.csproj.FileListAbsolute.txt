@@ -1,31 +1,62 @@
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\DataAccessLayer\bin\Debug\DataAccessLayer.exe.config
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\DataAccessLayer\bin\Debug\DataAccessLayer.exe
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\DataAccessLayer\bin\Debug\AutoMapper.dll
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\DataAccessLayer\bin\Debug\EntityFramework.dll
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\DataAccessLayer\bin\Debug\EntityLayer.exe
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\DataAccessLayer\bin\Debug\System.Configuration.ConfigurationManager.dll
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\DataAccessLayer\bin\Debug\System.Data.SQLite.dll
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\DataAccessLayer\bin\Debug\System.Data.SQLite.EF6.dll
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\DataAccessLayer\bin\Debug\System.Data.SQLite.Linq.dll
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\DataAccessLayer\bin\Debug\System.Security.AccessControl.dll
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\DataAccessLayer\bin\Debug\System.Security.Permissions.dll
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\DataAccessLayer\bin\Debug\System.Security.Principal.Windows.dll
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\DataAccessLayer\bin\Debug\System.ValueTuple.dll
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\DataAccessLayer\bin\Debug\EntityLayer.pdb
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\DataAccessLayer\bin\Debug\EntityLayer.exe.config
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\DataAccessLayer\bin\Debug\AutoMapper.pdb
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\DataAccessLayer\bin\Debug\AutoMapper.xml
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\DataAccessLayer\bin\Debug\EntityFramework.xml
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\DataAccessLayer\bin\Debug\System.Data.SQLite.xml
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\DataAccessLayer\bin\Debug\System.Data.SQLite.dll.config
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\DataAccessLayer\bin\Debug\System.ValueTuple.xml
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.db.resources
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.cache
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\DataAccessLayer\obj\Debug\DataAccessLayer.exe
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/DataAccessLayer/bin/Debug/DataAccessLayer.exe.config
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/DataAccessLayer/bin/Debug/DataAccessLayer.exe
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/DataAccessLayer/bin/Debug/DataAccessLayer.pdb
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/DataAccessLayer/bin/Debug/AutoMapper.dll
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/DataAccessLayer/bin/Debug/EntityFramework.dll
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/DataAccessLayer/bin/Debug/EntityFramework.SqlServer.dll
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/DataAccessLayer/bin/Debug/EntityLayer.exe
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/DataAccessLayer/bin/Debug/System.Configuration.ConfigurationManager.dll
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/DataAccessLayer/bin/Debug/System.Data.SQLite.dll
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/DataAccessLayer/bin/Debug/System.Data.SQLite.EF6.dll
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/DataAccessLayer/bin/Debug/System.Data.SQLite.Linq.dll
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/DataAccessLayer/bin/Debug/System.Security.AccessControl.dll
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/DataAccessLayer/bin/Debug/System.Security.Permissions.dll
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/DataAccessLayer/bin/Debug/System.Security.Principal.Windows.dll
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/DataAccessLayer/bin/Debug/System.ValueTuple.dll
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/DataAccessLayer/bin/Debug/EntityLayer.pdb
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/DataAccessLayer/bin/Debug/EntityLayer.exe.config
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/DataAccessLayer/bin/Debug/AutoMapper.pdb
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/DataAccessLayer/bin/Debug/AutoMapper.xml
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/DataAccessLayer/bin/Debug/EntityFramework.xml
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/DataAccessLayer/bin/Debug/EntityFramework.SqlServer.xml
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/DataAccessLayer/bin/Debug/System.Data.SQLite.xml
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/DataAccessLayer/bin/Debug/System.Data.SQLite.dll.config
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/DataAccessLayer/bin/Debug/System.ValueTuple.xml
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/DataAccessLayer/obj/Debug/DataAccessLayer.csprojAssemblyReference.cache
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/DataAccessLayer/obj/Debug/DataAccessLayer.Migrations.db.resources
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/DataAccessLayer/obj/Debug/DataAccessLayer.csproj.GenerateResource.cache
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/DataAccessLayer/obj/Debug/DataAccessLayer.csproj.CoreCompileInputs.cache
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/DataAccessLayer/obj/Debug/DataAccessLayer.csproj.CopyComplete
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/DataAccessLayer/obj/Debug/DataAccessLayer.exe
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/DataAccessLayer/obj/Debug/DataAccessLayer.pdb
+/Volumes/DATA/My Project/ProjectTeam/Project/DataAccessLayer/bin/Debug/DataAccessLayer.exe.config
+/Volumes/DATA/My Project/ProjectTeam/Project/DataAccessLayer/bin/Debug/DataAccessLayer.exe
+/Volumes/DATA/My Project/ProjectTeam/Project/DataAccessLayer/bin/Debug/DataAccessLayer.pdb
+/Volumes/DATA/My Project/ProjectTeam/Project/DataAccessLayer/bin/Debug/AutoMapper.dll
+/Volumes/DATA/My Project/ProjectTeam/Project/DataAccessLayer/bin/Debug/EntityFramework.dll
+/Volumes/DATA/My Project/ProjectTeam/Project/DataAccessLayer/bin/Debug/EntityFramework.SqlServer.dll
+/Volumes/DATA/My Project/ProjectTeam/Project/DataAccessLayer/bin/Debug/EntityLayer.exe
+/Volumes/DATA/My Project/ProjectTeam/Project/DataAccessLayer/bin/Debug/System.Configuration.ConfigurationManager.dll
+/Volumes/DATA/My Project/ProjectTeam/Project/DataAccessLayer/bin/Debug/System.Data.SQLite.dll
+/Volumes/DATA/My Project/ProjectTeam/Project/DataAccessLayer/bin/Debug/System.Data.SQLite.EF6.dll
+/Volumes/DATA/My Project/ProjectTeam/Project/DataAccessLayer/bin/Debug/System.Data.SQLite.Linq.dll
+/Volumes/DATA/My Project/ProjectTeam/Project/DataAccessLayer/bin/Debug/System.Security.AccessControl.dll
+/Volumes/DATA/My Project/ProjectTeam/Project/DataAccessLayer/bin/Debug/System.Security.Permissions.dll
+/Volumes/DATA/My Project/ProjectTeam/Project/DataAccessLayer/bin/Debug/System.Security.Principal.Windows.dll
+/Volumes/DATA/My Project/ProjectTeam/Project/DataAccessLayer/bin/Debug/System.ValueTuple.dll
+/Volumes/DATA/My Project/ProjectTeam/Project/DataAccessLayer/bin/Debug/EntityLayer.pdb
+/Volumes/DATA/My Project/ProjectTeam/Project/DataAccessLayer/bin/Debug/EntityLayer.exe.config
+/Volumes/DATA/My Project/ProjectTeam/Project/DataAccessLayer/bin/Debug/AutoMapper.pdb
+/Volumes/DATA/My Project/ProjectTeam/Project/DataAccessLayer/bin/Debug/AutoMapper.xml
+/Volumes/DATA/My Project/ProjectTeam/Project/DataAccessLayer/bin/Debug/EntityFramework.xml
+/Volumes/DATA/My Project/ProjectTeam/Project/DataAccessLayer/bin/Debug/EntityFramework.SqlServer.xml
+/Volumes/DATA/My Project/ProjectTeam/Project/DataAccessLayer/bin/Debug/System.Data.SQLite.xml
+/Volumes/DATA/My Project/ProjectTeam/Project/DataAccessLayer/bin/Debug/System.Data.SQLite.dll.config
+/Volumes/DATA/My Project/ProjectTeam/Project/DataAccessLayer/bin/Debug/System.ValueTuple.xml
+/Volumes/DATA/My Project/ProjectTeam/Project/DataAccessLayer/obj/Debug/DataAccessLayer.csprojAssemblyReference.cache
+/Volumes/DATA/My Project/ProjectTeam/Project/DataAccessLayer/obj/Debug/DataAccessLayer.Migrations.Db.resources
+/Volumes/DATA/My Project/ProjectTeam/Project/DataAccessLayer/obj/Debug/DataAccessLayer.csproj.GenerateResource.cache
+/Volumes/DATA/My Project/ProjectTeam/Project/DataAccessLayer/obj/Debug/DataAccessLayer.csproj.CoreCompileInputs.cache
+/Volumes/DATA/My Project/ProjectTeam/Project/DataAccessLayer/obj/Debug/DataAccessLayer.csproj.CopyComplete
+/Volumes/DATA/My Project/ProjectTeam/Project/DataAccessLayer/obj/Debug/DataAccessLayer.exe
+/Volumes/DATA/My Project/ProjectTeam/Project/DataAccessLayer/obj/Debug/DataAccessLayer.pdb

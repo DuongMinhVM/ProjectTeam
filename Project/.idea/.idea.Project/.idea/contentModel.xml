@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/Library/Caches/Rider2018.2/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2018.2/resharper-host/local/Transient/ReSharperHost/v182/SolutionCaches/_Project.-609668358.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$/../EntityLayer" t="IncludeRecursive">
+      <e p="App.config" t="Include" />
+      <e p="BaseEntity.cs" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="CategoryEntity.cs" t="Include" />
+      <e p="CountryEntity.cs" t="Include" />
+      <e p="EntityLayer.csproj" t="IncludeRecursive" />
+      <e p="MerchantEntity.cs" t="Include" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="OrderEntity.cs" t="Include" />
+      <e p="OrderItemEntity.cs" t="Include" />
+      <e p="packages.config" t="Include" />
+      <e p="ProductEntity.cs" t="Include" />
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="AssemblyInfo.cs" t="Include" />
+      </e>
+      <e p="UserEntity.cs" t="Include" />
+    </e>
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="01. APi" t="Include" />
+      <e p="02. Service" t="Include" />
+      <e p="03. DataAccess" t="Include" />
+      <e p="04. Entity" t="Include" />
+      <e p="DataAccessLayer" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="DataAccessLayer.csproj" t="IncludeRecursive" />
+        <e p="EFDbContext.cs" t="Include" />
+        <e p="IRepositorys" t="Include">
+          <e p="IRepository.cs" t="Include" />
+        </e>
+        <e p="IUnitOfWorks" t="Include">
+          <e p="IUnitOfWork.cs" t="Include" />
+        </e>
+        <e p="Migrations" t="Include">
+          <e p="201809260403318_db.cs" t="Include" />
+          <e p="201809260403318_db.Designer.cs" t="Include" />
+          <e p="201809260403318_db.resx" t="Include" />
+          <e p="Configuration.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Repositorys" t="Include">
+          <e p="Repository.cs" t="Include" />
+        </e>
+        <e p="UnitOfWorks" t="Include">
+          <e p="UnitOfWork.cs" t="Include" />
+        </e>
+      </e>
+      <e p="EntityService" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="EntityServiceLayer.csproj" t="IncludeRecursive" />
+        <e p="IServices" t="Include">
+          <e p="IBaseService.cs" t="Include" />
+          <e p="ICategoryService.cs" t="Include" />
+          <e p="ICountryService.cs" t="Include" />
+          <e p="IMerchantService.cs" t="Include" />
+          <e p="IOrderService.cs" t="Include" />
+          <e p="IProductService.cs" t="Include" />
+          <e p="IUserService.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Services" t="Include">
+          <e p="BaseService.cs" t="Include" />
+          <e p="CategoryService.cs" t="Include" />
+        </e>
+        <e p="ViewModels" t="Include">
+          <e p="BaseViewModel.cs" t="Include" />
+          <e p="CatagoryViewModel.cs" t="Include" />
+          <e p="CountryViewModel.cs" t="Include" />
+          <e p="MerchantViewModel.cs" t="Include" />
+          <e p="OrderViewModel.cs" t="Include" />
+          <e p="ProductViewModel.cs" t="Include" />
+          <e p="UserViewModel.cs" t="Include" />
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive">
+        <e p="MSTest.TestAdapter.1.3.2/build/_common/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll" t="Include" />
+        <e p="MSTest.TestAdapter.1.3.2/build/_common/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll" t="Include" />
+        <e p="MSTest.TestAdapter.1.3.2/build/_common/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll" t="Include" />
+      </e>
+      <e p="Project.APi" t="IncludeRecursive">
+        <e p="App_Data" t="Include" />
+        <e p="App_Start" t="Include">
+          <e p="WebApiConfig.cs" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Configs" t="Include">
+          <e p="AutoMapperConfig.cs" t="Include" />
+        </e>
+        <e p="Controllers" t="Include">
+          <e p="CategoryController.cs" t="Include" />
+        </e>
+        <e p="Global.asax" t="Include" />
+        <e p="Global.asax.cs" t="Include" />
+        <e p="GlobalSuppressions.cs" t="Include" />
+        <e p="Models" t="Include">
+          <e p="CategoryAddOutput.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Project.APi.csproj" t="IncludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="ToolDummyData" t="Include">
+          <e p="AutoGenerateData.cs" t="Include" />
+        </e>
+        <e p="Web.config" t="Include" />
+        <e p="Web.Debug.config" t="Include" />
+        <e p="Web.Release.config" t="Include" />
+      </e>
+      <e p="Project.sln" t="IncludeFlat" />
+      <e p="ProjectTeam_TestFunction" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="ProjectTeam_TestFunction.csproj" t="IncludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="UnitTest1.cs" t="Include" />
+      </e>
+    </e>
+  </component>
+</project>

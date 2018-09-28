@@ -2,10 +2,10 @@
 
 namespace EntityLayer
 {
-    public class MerchantEntity : BaseEntity
+    public abstract class MerchantEntity : BaseEntity
     {
         public string Name { get; set; }
-        public Guid CountriesID { get; set; }
-        public Guid UserID { get; set; }
+        public Guid CountriesId { get; set; }
+        public Guid UserId { get; set; }
     }
 }

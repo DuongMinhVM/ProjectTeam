@@ -1,5 +1,4 @@
-﻿using System;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
+﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace ProjectTeam_TestFunction
 {
@@ -11,10 +10,5 @@ namespace ProjectTeam_TestFunction
         {
         }
 
-        [TestMethod]
-        public void ABC()
-        {
-
-        }
     }
 }

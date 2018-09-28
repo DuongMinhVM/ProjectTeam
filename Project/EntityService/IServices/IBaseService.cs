@@ -1,8 +1,8 @@
-﻿using EntityLayer;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq.Expressions;
 using System.Threading.Tasks;
+using EntityLayer;
 
 namespace EntityService.IServices
 {
@@ -16,6 +16,6 @@ namespace EntityService.IServices
 
         Task<TViewModel> UpdateAsync(TViewModel model);
 
-        IEnumerable<TViewModel> FindByExpression(TViewModel mapper, Expression<Func<TViewModel, bool>> pridicate);
+        IEnumerable<TViewModel> FindByExpression(TViewModel mapper, Expression<Func<TViewModel, bool>> predicate);
     }
 }

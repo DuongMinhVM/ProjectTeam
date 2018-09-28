@@ -76,7 +76,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="IServices\IBaseService.cs" />
-    <Compile Include="IServices\ICatagoryService.cs" />
+    <Compile Include="IServices\ICategoryService.cs" />
     <Compile Include="IServices\ICountryService.cs" />
     <Compile Include="IServices\IMerchantService.cs" />
     <Compile Include="IServices\IOrderService.cs" />
@@ -85,7 +85,7 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Services\BaseService.cs" />
-    <Compile Include="Services\CatagoryService.cs" />
+    <Compile Include="Services\CategoryService.cs" />
     <Compile Include="ViewModels\BaseViewModel.cs" />
     <Compile Include="ViewModels\CatagoryViewModel.cs" />
     <Compile Include="ViewModels\CountryViewModel.cs" />

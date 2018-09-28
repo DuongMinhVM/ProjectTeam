@@ -1,4 +1,5 @@
 ﻿using System.Linq;
+using System.Net.Http.Headers;
 using System.Web.Http;
 
 namespace Project.APi
@@ -8,7 +9,7 @@ namespace Project.APi
         public static void Register(HttpConfiguration config)
         {
             // Web API configuration and services
-            System.Net.Http.Headers.MediaTypeHeaderValue app = config.Formatters.XmlFormatter.SupportedMediaTypes.FirstOrDefault(x => x.MediaType == "application/xml");
+            MediaTypeHeaderValue app = config.Formatters.XmlFormatter.SupportedMediaTypes.FirstOrDefault(x => x.MediaType == "application/xml");
             config.Formatters.XmlFormatter.SupportedMediaTypes.Remove(app);
 
             // Web API routes

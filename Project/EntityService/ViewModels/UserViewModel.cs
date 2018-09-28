@@ -9,6 +9,6 @@ namespace EntityService.ViewModels
         public string Email { get; set; }
         public bool? Gender { get; set; }
         public DateTime? DateOfBirth { get; set; }
-        public Guid CountryID { get; set; }
+        public Guid CountryId { get; set; }
     }
 }

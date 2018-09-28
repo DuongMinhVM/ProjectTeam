@@ -1,15 +1,15 @@
+using System.Data.Entity.Migrations;
+
 namespace DataAccessLayer.Migrations
 {
-    using System.Data.Entity.Migrations;
-
-    internal sealed class Configuration : DbMigrationsConfiguration<DataAccessLayer.EFDbContext>
+    internal sealed class Configuration : DbMigrationsConfiguration<EfDbContext>
     {
         public Configuration()
         {
             AutomaticMigrationsEnabled = false;
         }
 
-        protected override void Seed(DataAccessLayer.EFDbContext context)
+        protected override void Seed(EfDbContext context)
         {
             //  This method will be called after migrating to the latest version.
 

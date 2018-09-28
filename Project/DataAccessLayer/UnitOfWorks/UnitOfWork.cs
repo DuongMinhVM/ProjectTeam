@@ -1,11 +1,11 @@
-﻿using DataAccessLayer.IRepository;
-using DataAccessLayer.IUnitOfWorks;
-using DataAccessLayer.Repository;
-using EntityLayer;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Data.Entity;
 using System.Threading.Tasks;
+using DataAccessLayer.IRepositorys;
+using DataAccessLayer.IUnitOfWorks;
+using DataAccessLayer.Repositorys;
+using EntityLayer;
 
 namespace DataAccessLayer.UnitOfWorks
 {
@@ -17,12 +17,12 @@ namespace DataAccessLayer.UnitOfWorks
         /// <summary>
         /// The DbContext
         /// </summary>
-        private DbContext dbContext;
+        private DbContext _dbContext;
 
         /// <summary>
         /// The repositories
         /// </summary>
-        private Dictionary<Type, object> repositories;
+        private Dictionary<Type, object> _repositories;
 
         /// <summary>
         /// Initializes a new instance of the <see cref="UnitOfWork" /> class.
@@ -30,7 +30,7 @@ namespace DataAccessLayer.UnitOfWorks
         /// <param name="contextFactory">The context factory.</param>
         public UnitOfWork(DbContext contextFactory)
         {
-            dbContext = contextFactory;
+            _dbContext = contextFactory;
         }
 
         /// <summary>
@@ -41,18 +41,18 @@ namespace DataAccessLayer.UnitOfWorks
         public virtual IRepository<TEntity> GetRepository<TEntity>()
             where TEntity : BaseEntity
         {
-            if (repositories == null)
+            if (_repositories == null)
             {
-                repositories = new Dictionary<Type, object>();
+                _repositories = new Dictionary<Type, object>();
             }
 
             Type type = typeof(TEntity);
-            if (!repositories.ContainsKey(type))
+            if (!_repositories.ContainsKey(type))
             {
-                repositories[type] = new Repository<TEntity>(dbContext);
+                _repositories[type] = new Repository<TEntity>(_dbContext);
             }
 
-            return (IRepository<TEntity>)repositories[type];
+            return (IRepository<TEntity>)_repositories[type];
         }
 
         /// <summary>
@@ -62,7 +62,7 @@ namespace DataAccessLayer.UnitOfWorks
         public async Task<int> CommitAsync()
         {
             // Save changes with the default options
-            return await dbContext.SaveChangesAsync();
+            return await _dbContext.SaveChangesAsync();
         }
 
         /// <summary>
@@ -70,7 +70,7 @@ namespace DataAccessLayer.UnitOfWorks
         /// </summary>
         public void Dispose()
         {
-            this.Dispose(true);
+            Dispose(true);
 
             // ReSharper disable once GCSuppressFinalizeForTypeWithoutDestructor
             GC.SuppressFinalize(obj: this);
@@ -84,10 +84,10 @@ namespace DataAccessLayer.UnitOfWorks
         {
             if (disposing)
             {
-                if (dbContext != null)
+                if (_dbContext != null)
                 {
-                    dbContext.Dispose();
-                    dbContext = null;
+                    _dbContext.Dispose();
+                    _dbContext = null;
                 }
             }
         }

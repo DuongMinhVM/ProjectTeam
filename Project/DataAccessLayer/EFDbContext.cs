@@ -1,9 +1,9 @@
-﻿using EntityLayer;
-using System.Data.Entity;
+﻿using System.Data.Entity;
+using EntityLayer;
 
 namespace DataAccessLayer
 {
-    public class EFDbContext : DbContext
+    public class EfDbContext : DbContext
     {
         public DbSet<UserEntity> Users { get; set; }
         public DbSet<ProductEntity> Products { get; set; }
@@ -11,15 +11,15 @@ namespace DataAccessLayer
         public DbSet<OrderEntity> Orders { get; set; }
         public DbSet<MerchantEntity> Merchants { get; set; }
         public DbSet<CountryEntity> Countries { get; set; }
-        public DbSet<CatagoryEntity> Catagories { get; set; }
+        public DbSet<CategoryEntity> Categories { get; set; }
 
-        public EFDbContext() : base("Data Source=10.211.55.2;Initial Catalog=ProjectTeam; Persist Security Info=True;User ID=SA;Password=Vmdvmd123;MultipleActiveResultSets=True")
+        private EfDbContext() : base("Data Source=10.211.55.2;Initial Catalog=ProjectTeam; Persist Security Info=True;User ID=SA;Password=Vmdvmd123;MultipleActiveResultSets=True")
         {
         }
 
-        public static EFDbContext Create()
+        public static EfDbContext Create()
         {
-            return new EFDbContext();
+            return new EfDbContext();
         }
     }
 }

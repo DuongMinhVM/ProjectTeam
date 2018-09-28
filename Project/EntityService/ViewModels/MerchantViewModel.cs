@@ -2,10 +2,10 @@
 
 namespace EntityService.ViewModels
 {
-    public class MerchantViewModel : BaseViewModel
+    public abstract class MerchantViewModel : BaseViewModel
     {
         public string Name { get; set; }
-        public Guid CountriesID { get; set; }
-        public Guid UserID { get; set; }
+        public Guid CountriesId { get; set; }
+        public Guid UserId { get; set; }
     }
 }

@@ -1,10 +1,10 @@
-﻿using EntityLayer;
-using System;
+﻿using System;
 using System.Linq;
 using System.Linq.Expressions;
 using System.Threading.Tasks;
+using EntityLayer;
 
-namespace DataAccessLayer.IRepository
+namespace DataAccessLayer.IRepositorys
 {
     /// <summary>
     /// Interface for generic repository, contains CRUD operation of EF entity

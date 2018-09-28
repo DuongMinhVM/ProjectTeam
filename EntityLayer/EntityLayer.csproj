@@ -50,7 +50,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BaseEntity.cs" />
-    <Compile Include="CatagoryEntity.cs" />
+    <Compile Include="CategoryEntity.cs" />
     <Compile Include="CountryEntity.cs" />
     <Compile Include="MerchantEntity.cs" />
     <Compile Include="OrderEntity.cs" />

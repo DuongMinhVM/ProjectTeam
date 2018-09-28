@@ -10,7 +10,7 @@ namespace Project.APi.Configs
         {
             Mapper.Initialize(c =>
             {
-                c.CreateMap<CatagoryEntity, CatagoryViewModel>();
+                c.CreateMap<CategoryEntity, CatagoryViewModel>();
                 c.CreateMap<CountryEntity, CountryViewModel>();
                 c.CreateMap<MerchantEntity, MerchantViewModel>();
                 c.CreateMap<OrderEntity, OrderViewModel>();
