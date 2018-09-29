@@ -1,7 +1,7 @@
-﻿using System;
-using System.Threading.Tasks;
-using DataAccessLayer.IRepositorys;
+﻿using DataAccessLayer.IRepositorys;
 using EntityLayer;
+using System;
+using System.Threading.Tasks;
 
 namespace DataAccessLayer.IUnitOfWorks
 {

@@ -1,11 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Data.Entity;
-using System.Threading.Tasks;
-using DataAccessLayer.IRepositorys;
+﻿using DataAccessLayer.IRepositorys;
 using DataAccessLayer.IUnitOfWorks;
 using DataAccessLayer.Repositorys;
 using EntityLayer;
+using System;
+using System.Collections.Generic;
+using System.Data.Entity;
+using System.Threading.Tasks;
 
 namespace DataAccessLayer.UnitOfWorks
 {

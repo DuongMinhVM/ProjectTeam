@@ -2,7 +2,7 @@
 
 namespace EntityLayer
 {
-    public abstract class MerchantEntity : BaseEntity
+    public class MerchantEntity : BaseEntity
     {
         public string Name { get; set; }
         public Guid CountriesId { get; set; }

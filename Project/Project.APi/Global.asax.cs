@@ -1,6 +1,6 @@
-﻿using System.Web;
+﻿using Project.APi.Configs;
+using System.Web;
 using System.Web.Http;
-using Project.APi.Configs;
 
 namespace Project.APi
 {

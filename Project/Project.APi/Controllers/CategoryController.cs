@@ -1,10 +1,10 @@
-﻿using System;
-using System.Threading.Tasks;
-using System.Web.Http;
-using EntityService.IServices;
+﻿using EntityService.IServices;
 using EntityService.Services;
 using EntityService.ViewModels;
 using Project.APi.Models;
+using System;
+using System.Threading.Tasks;
+using System.Web.Http;
 
 namespace Project.APi.Controllers
 {
@@ -20,6 +20,7 @@ namespace Project.APi.Controllers
         // GET: api/Category
 #pragma warning disable CS1998 // Async method lacks 'await' operators and will run synchronously
 #pragma warning disable CA1822 // Mark members as static
+
         public async Task<IHttpActionResult> Get()
 #pragma warning restore CA1822 // Mark members as static
 #pragma warning restore CS1998 // Async method lacks 'await' operators and will run synchronously
@@ -28,19 +29,25 @@ namespace Project.APi.Controllers
         }
 
         // GET: api/Category/5
+#pragma warning disable CA1822 // Mark members as static
         public string Get(int id)
+#pragma warning restore CA1822 // Mark members as static
         {
             return "value";
         }
 
         // POST: api/Catagory
-        public async Task<IHttpActionResult> Post([FromBody]CatagoryViewModel model)
+        public async Task<IHttpActionResult> Post([FromBody]CategoryViewModel model)
         {
-            if (model == null) throw new ArgumentNullException(nameof(model));
+            if (model == null)
+            {
+                throw new ArgumentNullException(nameof(model));
+            }
+
             try
             {
-                model = await _categoryService.AddAsync(null);
-                var output = new CategoryAddOutput
+                model = await _categoryService.AddAsync(model);
+                CategoryAddOutput output = new CategoryAddOutput
                 {
                     Success = true,
                     Data = model,
@@ -59,7 +66,7 @@ namespace Project.APi.Controllers
             catch (Exception ex)
             {
                 GC.SuppressFinalize(obj: this);
-                var output = new CategoryAddOutput
+                CategoryAddOutput output = new CategoryAddOutput
                 {
                     Success = false,
                     Data = null,
@@ -71,6 +78,7 @@ namespace Project.APi.Controllers
 
         // PUT: api/Catagory/5
 #pragma warning disable CA1822 // Mark members as static
+
         public void Put(int id, [FromBody]string value)
 #pragma warning restore CA1822 // Mark members as static
         {
@@ -78,6 +86,7 @@ namespace Project.APi.Controllers
 
         // DELETE: api/Catagory/5
 #pragma warning disable CA1822 // Mark members as static
+
         public void Delete(int id)
 #pragma warning restore CA1822 // Mark members as static
         {

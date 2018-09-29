@@ -3,6 +3,8 @@
   <component name="ContentModelStore">
     <e p="$USER_HOME$/Library/Caches/Rider2018.2/extResources" t="IncludeRecursive" />
     <e p="$USER_HOME$/Library/Caches/Rider2018.2/resharper-host/local/Transient/ReSharperHost/v182/SolutionCaches/_Project.-609668358.00" t="ExcludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/consoles/db" t="IncludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/extensions" t="IncludeRecursive" />
     <e p="$PROJECT_DIR$/../EntityLayer" t="IncludeRecursive">
       <e p="App.config" t="Include" />
       <e p="BaseEntity.cs" t="Include" />
@@ -39,9 +41,9 @@
           <e p="IUnitOfWork.cs" t="Include" />
         </e>
         <e p="Migrations" t="Include">
-          <e p="201809260403318_db.cs" t="Include" />
-          <e p="201809260403318_db.Designer.cs" t="Include" />
-          <e p="201809260403318_db.resx" t="Include" />
+          <e p="201809290801358_db.cs" t="Include" />
+          <e p="201809290801358_db.Designer.cs" t="Include" />
+          <e p="201809290801358_db.resx" t="Include" />
           <e p="Configuration.cs" t="Include" />
         </e>
         <e p="obj" t="ExcludeRecursive" />
@@ -82,7 +84,7 @@
         </e>
         <e p="ViewModels" t="Include">
           <e p="BaseViewModel.cs" t="Include" />
-          <e p="CatagoryViewModel.cs" t="Include" />
+          <e p="CategoryViewModel.cs" t="Include" />
           <e p="CountryViewModel.cs" t="Include" />
           <e p="MerchantViewModel.cs" t="Include" />
           <e p="OrderViewModel.cs" t="Include" />

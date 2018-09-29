@@ -1,9 +1,6 @@
-﻿using EntityLayer;
-using EntityService.ViewModels;
-
-namespace EntityService.IServices
+﻿namespace EntityService.IServices
 {
-    public interface IUserService : IBaseService<UserEntity, UserViewModel>
+    public interface IUserService
     {
     }
 }

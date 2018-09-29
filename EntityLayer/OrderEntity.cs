@@ -2,7 +2,7 @@
 
 namespace EntityLayer
 {
-    public abstract class OrderEntity : BaseEntity
+    public class OrderEntity : BaseEntity
     {
         public Guid UserId { get; set; }
         public bool? Status { get; set; }
@@ -11,6 +11,5 @@ namespace EntityLayer
         public decimal Tax { get; set; }
         public decimal Discount { get; set; }
         public string CouponCode { get; set; }
-        
     }
 }

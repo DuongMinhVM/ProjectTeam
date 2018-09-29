@@ -6,7 +6,7 @@ using EntityService.ViewModels;
 
 namespace EntityService.Services
 {
-    public class CategoryService : BaseService<CategoryEntity, CatagoryViewModel>, ICategoryService
+    public class CategoryService : BaseService<CategoryEntity, CategoryViewModel>, ICategoryService
     {
         public CategoryService() : base(new UnitOfWork(EfDbContext.Create()))
         {

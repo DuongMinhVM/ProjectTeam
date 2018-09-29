@@ -12,17 +12,3 @@
 //Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/ProjectTeam_TestFunction/obj/Debug/ProjectTeam_TestFunction.csproj.CopyComplete
 //Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/ProjectTeam_TestFunction/obj/Debug/ProjectTeam_TestFunction.dll
 //Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/ProjectTeam_TestFunction/obj/Debug/ProjectTeam_TestFunction.pdb
-/Volumes/DATA/My Project/ProjectTeam/Project/ProjectTeam_TestFunction/bin/Debug/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
-/Volumes/DATA/My Project/ProjectTeam/Project/ProjectTeam_TestFunction/bin/Debug/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
-/Volumes/DATA/My Project/ProjectTeam/Project/ProjectTeam_TestFunction/bin/Debug/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
-/Volumes/DATA/My Project/ProjectTeam/Project/ProjectTeam_TestFunction/bin/Debug/ProjectTeam_TestFunction.dll
-/Volumes/DATA/My Project/ProjectTeam/Project/ProjectTeam_TestFunction/bin/Debug/ProjectTeam_TestFunction.pdb
-/Volumes/DATA/My Project/ProjectTeam/Project/ProjectTeam_TestFunction/bin/Debug/Microsoft.VisualStudio.TestPlatform.TestFramework.dll
-/Volumes/DATA/My Project/ProjectTeam/Project/ProjectTeam_TestFunction/bin/Debug/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
-/Volumes/DATA/My Project/ProjectTeam/Project/ProjectTeam_TestFunction/bin/Debug/Microsoft.VisualStudio.TestPlatform.TestFramework.xml
-/Volumes/DATA/My Project/ProjectTeam/Project/ProjectTeam_TestFunction/bin/Debug/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
-/Volumes/DATA/My Project/ProjectTeam/Project/ProjectTeam_TestFunction/obj/Debug/ProjectTeam_TestFunction.csprojAssemblyReference.cache
-/Volumes/DATA/My Project/ProjectTeam/Project/ProjectTeam_TestFunction/obj/Debug/ProjectTeam_TestFunction.csproj.CoreCompileInputs.cache
-/Volumes/DATA/My Project/ProjectTeam/Project/ProjectTeam_TestFunction/obj/Debug/ProjectTeam_TestFunction.csproj.CopyComplete
-/Volumes/DATA/My Project/ProjectTeam/Project/ProjectTeam_TestFunction/obj/Debug/ProjectTeam_TestFunction.dll
-/Volumes/DATA/My Project/ProjectTeam/Project/ProjectTeam_TestFunction/obj/Debug/ProjectTeam_TestFunction.pdb

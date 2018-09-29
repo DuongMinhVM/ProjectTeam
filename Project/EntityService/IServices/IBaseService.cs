@@ -1,8 +1,8 @@
-﻿using System;
+﻿using EntityLayer;
+using System;
 using System.Collections.Generic;
 using System.Linq.Expressions;
 using System.Threading.Tasks;
-using EntityLayer;
 
 namespace EntityService.IServices
 {

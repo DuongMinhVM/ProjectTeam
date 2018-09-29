@@ -2,7 +2,7 @@
 
 namespace EntityLayer
 {
-    public abstract class OrderItemEntity : BaseEntity
+    public class OrderItemEntity : BaseEntity
     {
         public Guid OrderId { get; set; }
         public Guid ProductId { get; set; }

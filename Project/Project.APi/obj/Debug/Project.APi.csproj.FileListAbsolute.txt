@@ -1,82 +1,170 @@
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\Project.APi\bin\Project.APi.dll.config
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\Project.APi\bin\Project.APi.dll
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\Project.APi\bin\Project.APi.pdb
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\Project.APi\bin\roslyn\csc.exe
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\Project.APi\bin\roslyn\csc.exe.config
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\Project.APi\bin\roslyn\csc.rsp
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\Project.APi\bin\roslyn\csi.exe
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\Project.APi\bin\roslyn\csi.exe.config
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\Project.APi\bin\roslyn\csi.rsp
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\Project.APi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\Project.APi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\Project.APi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\Project.APi\bin\roslyn\Microsoft.CodeAnalysis.dll
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\Project.APi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\Project.APi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\Project.APi\bin\roslyn\Microsoft.CSharp.Core.targets
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\Project.APi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\Project.APi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\Project.APi\bin\roslyn\Microsoft.Managed.Core.targets
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\Project.APi\bin\roslyn\Microsoft.VisualBasic.Core.targets
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\Project.APi\bin\roslyn\System.AppContext.dll
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\Project.APi\bin\roslyn\System.Collections.Immutable.dll
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\Project.APi\bin\roslyn\System.Console.dll
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\Project.APi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\Project.APi\bin\roslyn\System.Diagnostics.StackTrace.dll
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\Project.APi\bin\roslyn\System.IO.Compression.dll
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\Project.APi\bin\roslyn\System.IO.FileSystem.dll
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\Project.APi\bin\roslyn\System.IO.FileSystem.Primitives.dll
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\Project.APi\bin\roslyn\System.IO.Pipes.AccessControl.dll
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\Project.APi\bin\roslyn\System.IO.Pipes.dll
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\Project.APi\bin\roslyn\System.Reflection.Metadata.dll
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\Project.APi\bin\roslyn\System.Security.AccessControl.dll
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\Project.APi\bin\roslyn\System.Security.Claims.dll
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\Project.APi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\Project.APi\bin\roslyn\System.Security.Cryptography.Encoding.dll
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\Project.APi\bin\roslyn\System.Security.Cryptography.Primitives.dll
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\Project.APi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\Project.APi\bin\roslyn\System.Security.Principal.Windows.dll
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\Project.APi\bin\roslyn\System.Text.Encoding.CodePages.dll
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\Project.APi\bin\roslyn\System.ValueTuple.dll
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\Project.APi\bin\roslyn\System.Xml.ReaderWriter.dll
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\Project.APi\bin\roslyn\System.Xml.XmlDocument.dll
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\Project.APi\bin\roslyn\System.Xml.XPath.dll
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\Project.APi\bin\roslyn\System.Xml.XPath.XDocument.dll
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\Project.APi\bin\roslyn\vbc.exe
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\Project.APi\bin\roslyn\vbc.exe.config
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\Project.APi\bin\roslyn\vbc.rsp
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\Project.APi\bin\roslyn\VBCSCompiler.exe
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\Project.APi\bin\roslyn\VBCSCompiler.exe.config
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\Project.APi\bin\AutoMapper.dll
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\Project.APi\bin\EntityFramework.dll
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\Project.APi\bin\EntityFramework.SqlServer.dll
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\Project.APi\bin\EntityLayer.exe
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\Project.APi\bin\EntityService.exe
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\Project.APi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\Project.APi\bin\Newtonsoft.Json.dll
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\Project.APi\bin\System.Net.Http.Formatting.dll
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\Project.APi\bin\System.ValueTuple.dll
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\Project.APi\bin\System.Web.Http.dll
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\Project.APi\bin\System.Web.Http.WebHost.dll
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\Project.APi\bin\DataAccessLayer.exe
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\Project.APi\bin\EntityLayer.pdb
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\Project.APi\bin\EntityLayer.exe.config
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\Project.APi\bin\EntityService.pdb
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\Project.APi\bin\EntityService.exe.config
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\Project.APi\bin\AutoMapper.pdb
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\Project.APi\bin\AutoMapper.xml
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\Project.APi\bin\EntityFramework.xml
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\Project.APi\bin\EntityFramework.SqlServer.xml
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\Project.APi\bin\System.ValueTuple.xml
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\Project.APi\bin\Newtonsoft.Json.xml
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\Project.APi\bin\System.Net.Http.Formatting.xml
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\Project.APi\bin\System.Web.Http.xml
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\Project.APi\bin\System.Web.Http.WebHost.xml
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\Project.APi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\Project.APi\bin\DataAccessLayer.pdb
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\Project.APi\bin\DataAccessLayer.exe.config
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\Project.APi\obj\Debug\Project.APi.csprojAssemblyReference.cache
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\Project.APi\obj\Debug\Project.APi.csproj.CoreCompileInputs.cache
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\Project.APi\obj\Debug\Project.APi.csproj.CopyComplete
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\Project.APi\obj\Debug\Project.APi.dll
-\\Mac\Home\Downloads\HCM18_TG_NET_01\1. Trainee\Team3\Application-eShop\Source Code\Project\Project.APi\obj\Debug\Project.APi.pdb
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/Project.APi/bin/Project.APi.dll.config
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/Project.APi/bin/Project.APi.dll
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/Project.APi/bin/Project.APi.pdb
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/Project.APi/bin/roslyn/csc.exe
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/Project.APi/bin/roslyn/csc.exe.config
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/Project.APi/bin/roslyn/csc.rsp
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/Project.APi/bin/roslyn/csi.exe
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/Project.APi/bin/roslyn/csi.exe.config
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/Project.APi/bin/roslyn/csi.rsp
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/Project.APi/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/Project.APi/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/Project.APi/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/Project.APi/bin/roslyn/Microsoft.CodeAnalysis.dll
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/Project.APi/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/Project.APi/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/Project.APi/bin/roslyn/Microsoft.CSharp.Core.targets
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/Project.APi/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/Project.APi/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/Project.APi/bin/roslyn/Microsoft.Managed.Core.targets
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/Project.APi/bin/roslyn/Microsoft.VisualBasic.Core.targets
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/Project.APi/bin/roslyn/System.AppContext.dll
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/Project.APi/bin/roslyn/System.Collections.Immutable.dll
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/Project.APi/bin/roslyn/System.Console.dll
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/Project.APi/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/Project.APi/bin/roslyn/System.Diagnostics.StackTrace.dll
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/Project.APi/bin/roslyn/System.IO.Compression.dll
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/Project.APi/bin/roslyn/System.IO.FileSystem.dll
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/Project.APi/bin/roslyn/System.IO.FileSystem.Primitives.dll
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/Project.APi/bin/roslyn/System.IO.Pipes.AccessControl.dll
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/Project.APi/bin/roslyn/System.IO.Pipes.dll
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/Project.APi/bin/roslyn/System.Reflection.Metadata.dll
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/Project.APi/bin/roslyn/System.Security.AccessControl.dll
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/Project.APi/bin/roslyn/System.Security.Claims.dll
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/Project.APi/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/Project.APi/bin/roslyn/System.Security.Cryptography.Encoding.dll
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/Project.APi/bin/roslyn/System.Security.Cryptography.Primitives.dll
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/Project.APi/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/Project.APi/bin/roslyn/System.Security.Principal.Windows.dll
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/Project.APi/bin/roslyn/System.Text.Encoding.CodePages.dll
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/Project.APi/bin/roslyn/System.ValueTuple.dll
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/Project.APi/bin/roslyn/System.Xml.ReaderWriter.dll
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/Project.APi/bin/roslyn/System.Xml.XmlDocument.dll
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/Project.APi/bin/roslyn/System.Xml.XPath.dll
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/Project.APi/bin/roslyn/System.Xml.XPath.XDocument.dll
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/Project.APi/bin/roslyn/vbc.exe
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/Project.APi/bin/roslyn/vbc.exe.config
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/Project.APi/bin/roslyn/vbc.rsp
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/Project.APi/bin/roslyn/VBCSCompiler.exe
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/Project.APi/bin/roslyn/VBCSCompiler.exe.config
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/Project.APi/bin/AutoMapper.dll
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/Project.APi/bin/EntityFramework.dll
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/Project.APi/bin/EntityFramework.SqlServer.dll
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/Project.APi/bin/EntityLayer.exe
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/Project.APi/bin/EntityService.exe
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/Project.APi/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/Project.APi/bin/Newtonsoft.Json.dll
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/Project.APi/bin/System.Net.Http.Formatting.dll
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/Project.APi/bin/System.ValueTuple.dll
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/Project.APi/bin/System.Web.Http.dll
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/Project.APi/bin/System.Web.Http.WebHost.dll
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/Project.APi/bin/DataAccessLayer.exe
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/Project.APi/bin/EntityLayer.pdb
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/Project.APi/bin/EntityLayer.exe.config
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/Project.APi/bin/EntityService.pdb
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/Project.APi/bin/EntityService.exe.config
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/Project.APi/bin/AutoMapper.pdb
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/Project.APi/bin/AutoMapper.xml
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/Project.APi/bin/EntityFramework.xml
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/Project.APi/bin/EntityFramework.SqlServer.xml
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/Project.APi/bin/System.ValueTuple.xml
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/Project.APi/bin/Newtonsoft.Json.xml
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/Project.APi/bin/System.Net.Http.Formatting.xml
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/Project.APi/bin/System.Web.Http.xml
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/Project.APi/bin/System.Web.Http.WebHost.xml
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/Project.APi/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/Project.APi/bin/DataAccessLayer.pdb
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/Project.APi/bin/DataAccessLayer.exe.config
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/Project.APi/obj/Debug/Project.APi.csprojAssemblyReference.cache
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/Project.APi/obj/Debug/Project.APi.csproj.CoreCompileInputs.cache
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/Project.APi/obj/Debug/Project.APi.csproj.CopyComplete
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/Project.APi/obj/Debug/Project.APi.dll
+//Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/Project.APi/obj/Debug/Project.APi.pdb
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\Project.APi\bin\Project.APi.dll.config
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\Project.APi\bin\Project.APi.dll
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\Project.APi\bin\Project.APi.pdb
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\Project.APi\bin\roslyn\csc.exe
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\Project.APi\bin\roslyn\csc.exe.config
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\Project.APi\bin\roslyn\csc.rsp
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\Project.APi\bin\roslyn\csi.exe
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\Project.APi\bin\roslyn\csi.exe.config
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\Project.APi\bin\roslyn\csi.rsp
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\Project.APi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\Project.APi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\Project.APi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\Project.APi\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\Project.APi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\Project.APi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\Project.APi\bin\roslyn\Microsoft.CSharp.Core.targets
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\Project.APi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\Project.APi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\Project.APi\bin\roslyn\Microsoft.Managed.Core.targets
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\Project.APi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\Project.APi\bin\roslyn\System.AppContext.dll
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\Project.APi\bin\roslyn\System.Collections.Immutable.dll
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\Project.APi\bin\roslyn\System.Console.dll
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\Project.APi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\Project.APi\bin\roslyn\System.Diagnostics.StackTrace.dll
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\Project.APi\bin\roslyn\System.IO.Compression.dll
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\Project.APi\bin\roslyn\System.IO.FileSystem.dll
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\Project.APi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\Project.APi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\Project.APi\bin\roslyn\System.IO.Pipes.dll
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\Project.APi\bin\roslyn\System.Reflection.Metadata.dll
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\Project.APi\bin\roslyn\System.Security.AccessControl.dll
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\Project.APi\bin\roslyn\System.Security.Claims.dll
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\Project.APi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\Project.APi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\Project.APi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\Project.APi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\Project.APi\bin\roslyn\System.Security.Principal.Windows.dll
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\Project.APi\bin\roslyn\System.Text.Encoding.CodePages.dll
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\Project.APi\bin\roslyn\System.ValueTuple.dll
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\Project.APi\bin\roslyn\System.Xml.ReaderWriter.dll
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\Project.APi\bin\roslyn\System.Xml.XmlDocument.dll
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\Project.APi\bin\roslyn\System.Xml.XPath.dll
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\Project.APi\bin\roslyn\System.Xml.XPath.XDocument.dll
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\Project.APi\bin\roslyn\vbc.exe
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\Project.APi\bin\roslyn\vbc.exe.config
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\Project.APi\bin\roslyn\vbc.rsp
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\Project.APi\bin\roslyn\VBCSCompiler.exe
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\Project.APi\bin\roslyn\VBCSCompiler.exe.config
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\Project.APi\bin\AutoMapper.dll
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\Project.APi\bin\Bogus.dll
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\Project.APi\bin\EntityFramework.dll
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\Project.APi\bin\EntityFramework.SqlServer.dll
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\Project.APi\bin\EntityLayer.exe
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\Project.APi\bin\EntityService.exe
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\Project.APi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\Project.APi\bin\Newtonsoft.Json.dll
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\Project.APi\bin\System.Net.Http.Formatting.dll
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\Project.APi\bin\System.ValueTuple.dll
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\Project.APi\bin\System.Web.Http.dll
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\Project.APi\bin\System.Web.Http.WebHost.dll
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\Project.APi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\Project.APi\bin\DataAccessLayer.exe
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\Project.APi\bin\Microsoft.AspNet.Identity.Core.dll
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\Project.APi\bin\EntityLayer.pdb
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\Project.APi\bin\EntityLayer.exe.config
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\Project.APi\bin\EntityService.pdb
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\Project.APi\bin\EntityService.exe.config
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\Project.APi\bin\AutoMapper.pdb
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\Project.APi\bin\AutoMapper.xml
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\Project.APi\bin\Bogus.xml
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\Project.APi\bin\EntityFramework.xml
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\Project.APi\bin\EntityFramework.SqlServer.xml
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\Project.APi\bin\System.ValueTuple.xml
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\Project.APi\bin\Newtonsoft.Json.xml
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\Project.APi\bin\System.Net.Http.Formatting.xml
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\Project.APi\bin\System.Web.Http.xml
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\Project.APi\bin\System.Web.Http.WebHost.xml
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\Project.APi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\Project.APi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\Project.APi\bin\DataAccessLayer.pdb
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\Project.APi\bin\DataAccessLayer.exe.config
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\Project.APi\bin\Microsoft.AspNet.Identity.Core.xml
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\Project.APi\obj\Debug\Project.APi.csprojAssemblyReference.cache
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\Project.APi\obj\Debug\Project.APi.csproj.CoreCompileInputs.cache
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\Project.APi\obj\Debug\Project.APi.csproj.CopyComplete
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\Project.APi\obj\Debug\Project.APi.dll
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\Project.APi\obj\Debug\Project.APi.pdb
