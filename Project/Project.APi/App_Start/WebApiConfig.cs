@@ -3,6 +3,8 @@ using System.Net.Http.Headers;
 using System.Web.Http;
 using System.Web.Http.Cors;
 
+[assembly: log4net.Config.XmlConfigurator(ConfigFile = "Web.config", Watch = true)]
+
 namespace Project.APi
 {
     public static class WebApiConfig
@@ -13,6 +15,7 @@ namespace Project.APi
             MediaTypeHeaderValue app = config.Formatters.XmlFormatter.SupportedMediaTypes.FirstOrDefault(x => x.MediaType == "application/xml");
             config.Formatters.XmlFormatter.SupportedMediaTypes.Remove(app);
             config.EnableCors(new EnableCorsAttribute("http://localhost:4200", "*", "*"));
+
             // Web API routes
             config.MapHttpAttributeRoutes();
 

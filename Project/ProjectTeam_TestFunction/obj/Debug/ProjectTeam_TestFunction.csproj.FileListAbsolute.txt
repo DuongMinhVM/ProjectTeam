@@ -12,19 +12,3 @@
 //Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/ProjectTeam_TestFunction/obj/Debug/ProjectTeam_TestFunction.csproj.CopyComplete
 //Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/ProjectTeam_TestFunction/obj/Debug/ProjectTeam_TestFunction.dll
 //Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/ProjectTeam_TestFunction/obj/Debug/ProjectTeam_TestFunction.pdb
-\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\ProjectTeam_TestFunction\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
-\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\ProjectTeam_TestFunction\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
-\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\ProjectTeam_TestFunction\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
-\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\ProjectTeam_TestFunction\bin\Debug\ProjectTeam_TestFunction.dll
-\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\ProjectTeam_TestFunction\bin\Debug\ProjectTeam_TestFunction.pdb
-\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\ProjectTeam_TestFunction\bin\Debug\ProjectTeam_TestFunction.dll.CodeAnalysisLog.xml
-\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\ProjectTeam_TestFunction\bin\Debug\ProjectTeam_TestFunction.dll.lastcodeanalysissucceeded
-\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\ProjectTeam_TestFunction\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
-\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\ProjectTeam_TestFunction\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
-\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\ProjectTeam_TestFunction\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
-\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\ProjectTeam_TestFunction\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
-\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\ProjectTeam_TestFunction\obj\Debug\ProjectTeam_TestFunction.csprojAssemblyReference.cache
-\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\ProjectTeam_TestFunction\obj\Debug\ProjectTeam_TestFunction.csproj.CoreCompileInputs.cache
-\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\ProjectTeam_TestFunction\obj\Debug\ProjectTeam_TestFunction.csproj.CopyComplete
-\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\ProjectTeam_TestFunction\obj\Debug\ProjectTeam_TestFunction.dll
-\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\ProjectTeam_TestFunction\obj\Debug\ProjectTeam_TestFunction.pdb

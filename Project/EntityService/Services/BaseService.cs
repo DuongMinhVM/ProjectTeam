@@ -37,6 +37,7 @@ namespace EntityService.Services
         }
 
 #pragma warning disable CS1998 // This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.
+
         public virtual async Task<bool> ExistsAsync(Expression<Func<TViewModel, bool>> predicate)
 #pragma warning restore CS1998 // This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.
         {
@@ -44,6 +45,7 @@ namespace EntityService.Services
         }
 
 #pragma warning disable CS1998 // This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.
+
         public async Task<IEnumerable<TViewModel>> FindBy(Expression<Func<TViewModel, bool>> predicate)
 #pragma warning restore CS1998 // This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.
         {
@@ -51,6 +53,7 @@ namespace EntityService.Services
         }
 
 #pragma warning disable CS1998 // This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.
+
         public async Task<IEnumerable<TViewModel>> FindBy(Expression<Func<TViewModel, bool>> predicate, string include)
 #pragma warning restore CS1998 // This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.
         {
