@@ -30,6 +30,7 @@ namespace Project.APi.Controllers
 
         // GET: api/Category/5
 #pragma warning disable CA1822 // Mark members as static
+
         public string Get(int id)
 #pragma warning restore CA1822 // Mark members as static
         {
