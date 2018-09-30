@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Project.APi.ToolDummyData
 {
-    public class StringValue : Attribute
+    public sealed class StringValue : Attribute
     {
         public string Value { get; private set; }
 
@@ -79,8 +79,7 @@ namespace Project.APi.ToolDummyData
 
         public void GennerateCountry()
         {
-            string[] cate = new string[] { "Skirt", "T-Shirt", "Clothing", "Women", "Men", "Big-Size", "Small-Size", "Sport", "Baby" };
-            var country = new Bogus.Faker<CountryEntity>()
+            Bogus.Faker<CountryEntity> country = new Bogus.Faker<CountryEntity>()
                 .StrictMode(true)
                 .RuleFor(id => id.Id, f => Guid.NewGuid())
                 .RuleFor(zipcode => zipcode.ZipCode, f => f.Address.ZipCode())
@@ -102,14 +101,14 @@ namespace Project.APi.ToolDummyData
                 .RuleFor(card => card.CardinalDirection, f => f.Address.CardinalDirection())
                 .RuleFor(ord => ord.OrdinalDirection, f => f.Address.OrdinalDirection())
                 .RuleFor(date => date.CreateDate, f => DateTime.Now);
-            var result = country.Generate();
+            CountryEntity result = country.Generate();
             db.Set<CountryEntity>().Add(result);
         }
 
         public void GennerateProduct(List<Guid> guids)
         {
             string[] size = new string[] { "S", "M", "L", "XL", "XXL", "XXXL" };
-            var product = new Bogus.Faker<ProductEntity>()
+            Bogus.Faker<ProductEntity> product = new Bogus.Faker<ProductEntity>()
                    .StrictMode(true)
                    .RuleFor(id => id.Id, f => Guid.NewGuid())
                    .RuleFor(date => date.CreateDate, f => DateTime.Now)
@@ -125,7 +124,7 @@ namespace Project.APi.ToolDummyData
                    .RuleFor(si => si.Size, f => f.PickRandom(size))
                    .RuleFor(ct => ct.Categories, f => f.PickRandom(guids))
                    .RuleFor(dp => dp.Department, f => f.Commerce.Department());
-            var result = product.Generate();
+            ProductEntity result = product.Generate();
             db.Set<ProductEntity>().Add(result);
         }
 

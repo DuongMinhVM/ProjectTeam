@@ -29,3 +29,8 @@
 //Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/DataAccessLayer/obj/Debug/DataAccessLayer.csproj.CopyComplete
 //Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/DataAccessLayer/obj/Debug/DataAccessLayer.exe
 //Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/DataAccessLayer/obj/Debug/DataAccessLayer.pdb
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.db.resources
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.newdb.resources
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.cache
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache

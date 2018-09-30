@@ -80,3 +80,5 @@
 //Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/Project.APi/obj/Debug/Project.APi.csproj.CopyComplete
 //Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/Project.APi/obj/Debug/Project.APi.dll
 //Mac/Home/Downloads/HCM18_TG_NET_01/1. Trainee/Team3/Application-eShop/Source Code/Project/Project.APi/obj/Debug/Project.APi.pdb
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\Project.APi\obj\Debug\Project.APi.csprojAssemblyReference.cache
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\Project.APi\obj\Debug\Project.APi.csproj.CoreCompileInputs.cache

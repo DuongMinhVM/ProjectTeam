@@ -12,7 +12,7 @@ namespace DataAccessLayer.Repositorys
     /// Generic repository, contains CRUD operation of EF entity
     /// </summary>
     /// <typeparam name="T">Entity type</typeparam>
-    public class Repository<T> : IRepository<T> where T : BaseEntity
+    public class Repository<T> : IRepository<T> where T : BaseEntity, IDisposable
     {
         /// <summary>
         /// EF data base context
@@ -36,15 +36,16 @@ namespace DataAccessLayer.Repositorys
         }
 
         /// <inheritdoc />
-        public virtual T Add(T entity)
+        public T Add(T entity)
         {
             return _dbSet.Add(entity);
         }
 
         /// <inheritdoc />
-        public T Get<TKey>(TKey id)
+        public async Task<T> Get<TKey>(TKey id)
         {
-            return _dbSet.Find(id);
+            T result = await _dbSet.FindAsync(id);
+            return result;
         }
 
         /// <inheritdoc />
@@ -54,52 +55,58 @@ namespace DataAccessLayer.Repositorys
         }
 
         /// <inheritdoc />
-        public T Get(params object[] keyValues)
+        public async Task<T> Get(params object[] keyValues)
         {
-            return _dbSet.Find(keyValues);
+            T result = await _dbSet.FindAsync(keyValues);
+            return result;
         }
 
         /// <inheritdoc />
-        public IQueryable<T> FindBy(Expression<Func<T, bool>> predicate)
+        public async Task<IQueryable<T>> FindBy(Expression<Func<T, bool>> predicate)
         {
-            return _dbSet.Where(predicate);
+            System.Collections.Generic.List<T> result = await _dbSet.Where(predicate).ToListAsync<T>();
+            return result as IQueryable<T>;
         }
 
         /// <inheritdoc />
-        public IQueryable<T> FindBy(Expression<Func<T, bool>> predicate, string include)
+        public async Task<IQueryable<T>> FindBy(Expression<Func<T, bool>> predicate, string include)
         {
-            return FindBy(predicate).Include(include);
+            System.Collections.Generic.List<T> result = await _dbSet.Where(predicate).Include(include).ToListAsync();
+            return result as IQueryable<T>;
         }
 
         /// <inheritdoc />
-        public IQueryable<T> GetAll()
+        public async Task<IQueryable<T>> GetAll()
         {
-            return _dbSet;
+            System.Collections.Generic.List<T> result = await _dbSet.ToListAsync();
+            return result as IQueryable<T>;
         }
 
-        public IQueryable<T> GetAll(int page, int pageCount)
+        public async Task<IQueryable<T>> GetAll(int page, int pageCount)
         {
             int pageSize = (page - 1) * pageCount;
-
-            return _dbSet.Skip(pageSize).Take(pageCount);
+            System.Collections.Generic.List<T> result = await _dbSet.Skip(pageSize).Take(pageCount).ToListAsync();
+            return result as IQueryable<T>;
         }
 
         /// <inheritdoc />
-        public IQueryable<T> GetAll(string include)
+        public async Task<IQueryable<T>> GetAll(string include)
         {
-            return _dbSet.Include(include);
+            System.Collections.Generic.List<T> result = await _dbSet.Include(include).ToListAsync<T>();
+            return result as IQueryable<T>;
         }
 
         /// <inheritdoc />
-        public IQueryable<T> GetAll(string include, string include2)
+        public async Task<IQueryable<T>> GetAll(string include, string include2)
         {
-            return _dbSet.Include(include).Include(include2);
+            System.Collections.Generic.List<T> result = await _dbSet.Include(include).Include(include2).ToListAsync();
+            return result as IQueryable<T>;
         }
 
         /// <inheritdoc />
-        public bool Exists(Expression<Func<T, bool>> predicate)
+        public async Task<bool> Exists(Expression<Func<T, bool>> predicate)
         {
-            return _dbSet.Any(predicate);
+            return await _dbSet.AnyAsync(predicate);
         }
 
         /// <inheritdoc />
@@ -109,9 +116,29 @@ namespace DataAccessLayer.Repositorys
         }
 
         /// <inheritdoc />
-        public virtual void Update(T entity)
+        public void Update(T entity)
         {
             _context.Entry(entity).State = EntityState.Modified;
+        }
+
+        private bool _disposed;
+
+        protected virtual void Dispose(bool disposing)
+        {
+            if (!_disposed)
+            {
+                if (disposing)
+                {
+                    _context.Dispose();
+                }
+            }
+            _disposed = true;
+        }
+
+        public void Dispose()
+        {
+            Dispose(true);
+            GC.SuppressFinalize(this);
         }
     }
 }

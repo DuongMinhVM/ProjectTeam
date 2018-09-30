@@ -18,7 +18,7 @@ namespace DataAccessLayer.IRepositorys
         /// <typeparam name="TKey">The type of the key.</typeparam>
         /// <param name="id">The identifier.</param>
         /// <returns>Entity</returns>
-        T Get<TKey>(TKey id);
+        Task<T> Get<TKey>(TKey id);
 
         /// <summary>
         /// Gets the specified identifier. Asynchronous version.
@@ -33,14 +33,14 @@ namespace DataAccessLayer.IRepositorys
         /// </summary>
         /// <param name="keyValues">Composite Primary Key Identifiers</param>
         /// <returns>The requested Entity</returns>
-        T Get(params object[] keyValues);
+        Task<T> Get(params object[] keyValues);
 
         /// <summary>
         /// Generic find by predicate
         /// </summary>
         /// <param name="predicate">Query predicate</param>
         /// <returns>Entity</returns>
-        IQueryable<T> FindBy(Expression<Func<T, bool>> predicate);
+        Task<IQueryable<T>> FindBy(Expression<Func<T, bool>> predicate);
 
         /// <summary>
         /// Generic find by predicate and option to include child entity
@@ -48,13 +48,13 @@ namespace DataAccessLayer.IRepositorys
         /// <param name="predicate">The predicate.</param>
         /// <param name="include">The include sub-entity.</param>
         /// <returns>Queryable</returns>
-        IQueryable<T> FindBy(Expression<Func<T, bool>> predicate, string include);
+        Task<IQueryable<T>> FindBy(Expression<Func<T, bool>> predicate, string include);
 
         /// <summary>
         /// Gets all.
         /// </summary>
         /// <returns>List of entities</returns>
-        IQueryable<T> GetAll();
+        Task<IQueryable<T>> GetAll();
 
         /// <summary>
         /// Gets all. With data pagination.
@@ -62,14 +62,14 @@ namespace DataAccessLayer.IRepositorys
         /// <param name="page">The page.</param>
         /// <param name="pageCount">The page count.</param>
         /// <returns></returns>
-        IQueryable<T> GetAll(int page, int pageCount);
+        Task<IQueryable<T>> GetAll(int page, int pageCount);
 
         /// <summary>
         /// Gets all and offers to include a related table
         /// </summary>
         /// <param name="include">Te sub.entity to include</param>
         /// <returns>List of entities</returns>
-        IQueryable<T> GetAll(string include);
+        Task<IQueryable<T>> GetAll(string include);
 
         /// <summary>
         /// Gets all and offers to include 2 related tables
@@ -77,7 +77,7 @@ namespace DataAccessLayer.IRepositorys
         /// <param name="include">The sub.entity to include</param>
         /// <param name="include2">The second sub.entity to include</param>
         /// <returns>List of entities</returns>
-        IQueryable<T> GetAll(string include, string include2);
+        Task<IQueryable<T>> GetAll(string include, string include2);
 
         /// <summary>
         /// Adds the specified entity.
@@ -98,7 +98,7 @@ namespace DataAccessLayer.IRepositorys
         /// </summary>
         /// <param name="predicate">The predicate to filter on</param>
         /// <returns>Whether an entity matching the <paramref name="predicate"/> exists</returns>
-        bool Exists(Expression<Func<T, bool>> predicate);
+        Task<bool> Exists(Expression<Func<T, bool>> predicate);
 
         /// <summary>
         /// Updates the specified entity.

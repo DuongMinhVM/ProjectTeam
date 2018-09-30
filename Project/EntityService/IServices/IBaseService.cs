@@ -16,6 +16,24 @@ namespace EntityService.IServices
 
         Task<TViewModel> UpdateAsync(TViewModel model);
 
-        IEnumerable<TViewModel> FindByExpression(TViewModel mapper, Expression<Func<TViewModel, bool>> predicate);
+        Task<TViewModel> GetByAsync(Guid key);
+
+        Task<TViewModel> GetBy(Guid key);
+
+        Task<TViewModel> Get(params object[] keyValues);
+
+        Task<IEnumerable<TViewModel>> FindBy(Expression<Func<TViewModel, bool>> predicate);
+
+        Task<IEnumerable<TViewModel>> FindBy(Expression<Func<TViewModel, bool>> predicate, string include);
+
+        Task<IEnumerable<TViewModel>> GetAll();
+
+        Task<IEnumerable<TViewModel>> GetAll(string include);
+
+        Task<IEnumerable<TViewModel>> GetAll(int page, int pageCount);
+
+        Task<IEnumerable<TViewModel>> GetAll(string include, string include2);
+
+        Task<bool> ExistsAsync(Expression<Func<TViewModel, bool>> predicate);
     }
 }

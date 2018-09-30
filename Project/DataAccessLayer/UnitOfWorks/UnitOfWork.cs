@@ -49,7 +49,9 @@ namespace DataAccessLayer.UnitOfWorks
             Type type = typeof(TEntity);
             if (!_repositories.ContainsKey(type))
             {
+#pragma warning disable CS0311 // The type 'TEntity' cannot be used as type parameter 'T' in the generic type or method 'Repository<T>'. There is no implicit reference conversion from 'TEntity' to 'System.IDisposable'.
                 _repositories[type] = new Repository<TEntity>(_dbContext);
+#pragma warning restore CS0311 // The type 'TEntity' cannot be used as type parameter 'T' in the generic type or method 'Repository<T>'. There is no implicit reference conversion from 'TEntity' to 'System.IDisposable'.
             }
 
             return (IRepository<TEntity>)_repositories[type];

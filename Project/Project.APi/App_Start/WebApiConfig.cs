@@ -1,6 +1,7 @@
 ﻿using System.Linq;
 using System.Net.Http.Headers;
 using System.Web.Http;
+using System.Web.Http.Cors;
 
 namespace Project.APi
 {
@@ -11,7 +12,7 @@ namespace Project.APi
             // Web API configuration and services
             MediaTypeHeaderValue app = config.Formatters.XmlFormatter.SupportedMediaTypes.FirstOrDefault(x => x.MediaType == "application/xml");
             config.Formatters.XmlFormatter.SupportedMediaTypes.Remove(app);
-
+            config.EnableCors(new EnableCorsAttribute("http://localhost:4200", "*", "*"));
             // Web API routes
             config.MapHttpAttributeRoutes();
 
