@@ -84,6 +84,7 @@
     <Compile Include="ExtensionMethods\ExpressionMapper.cs" />
     <Compile Include="ExtensionMethods\IQueryableMethod.cs" />
     <Compile Include="ExtensionMethods\ParameterReplacer.cs" />
+    <Compile Include="GlobalSuppressions.cs" />
     <Compile Include="IServices\IBaseService.cs" />
     <Compile Include="IServices\ICategoryService.cs" />
     <Compile Include="IServices\ICountryService.cs" />
@@ -95,6 +96,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Services\BaseService.cs" />
     <Compile Include="Services\CategoryService.cs" />
+    <Compile Include="Services\UserService.cs" />
     <Compile Include="ViewModels\BaseViewModel.cs" />
     <Compile Include="ViewModels\CategoryViewModel.cs" />
     <Compile Include="ViewModels\CountryViewModel.cs" />

@@ -102,6 +102,10 @@
     <Compile Include="Migrations\201809300558068_newdb.Designer.cs">
       <DependentUpon>201809300558068_newdb.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201809301031129_editUser.cs" />
+    <Compile Include="Migrations\201809301031129_editUser.Designer.cs">
+      <DependentUpon>201809301031129_editUser.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -126,6 +130,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201809300558068_newdb.resx">
       <DependentUpon>201809300558068_newdb.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201809301031129_editUser.resx">
+      <DependentUpon>201809301031129_editUser.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

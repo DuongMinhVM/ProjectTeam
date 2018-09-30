@@ -12,7 +12,7 @@ namespace DataAccessLayer.Repositorys
     /// Generic repository, contains CRUD operation of EF entity
     /// </summary>
     /// <typeparam name="T">Entity type</typeparam>
-    public class Repository<T> : IRepository<T> where T : BaseEntity, IDisposable
+    public class Repository<T> : IDisposable, IRepository<T> where T : BaseEntity
     {
         /// <summary>
         /// EF data base context
