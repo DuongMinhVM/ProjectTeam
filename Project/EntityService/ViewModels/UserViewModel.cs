@@ -3,7 +3,7 @@ using System;
 
 namespace EntityService.ViewModels
 {
-    public class UserViewModel : IdentityUser
+    public class UserViewModel: IdentityUser
     {
         public string FirstName { get; set; }
         public string LastName { get; set; }
