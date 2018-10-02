@@ -32,6 +32,8 @@
 \\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\DataAccessLayer\bin\Debug\DataAccessLayer.exe.config
 \\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\DataAccessLayer\bin\Debug\DataAccessLayer.exe
 \\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\DataAccessLayer\bin\Debug\DataAccessLayer.exe.CodeAnalysisLog.xml
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\DataAccessLayer\bin\Debug\DataAccessLayer.exe.lastcodeanalysissucceeded
 \\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\DataAccessLayer\bin\Debug\AutoMapper.dll
 \\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\DataAccessLayer\bin\Debug\EntityFramework.dll
 \\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll

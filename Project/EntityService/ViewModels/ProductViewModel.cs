@@ -18,9 +18,10 @@ namespace EntityService.ViewModels
         // Get a random EAN-13 barcode number.
         public string Ean13 { get; set; }
 
-        public bool? Status { get; set; }
+        public string Status { get; set; }
         public int Quantity { get; set; }
         public string Fashion { get; set; }
         public string Description { get; set; }
+        public string Size { get; set; }
     }
 }

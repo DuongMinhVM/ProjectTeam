@@ -65,10 +65,9 @@ namespace Project.APi.Controllers
                     });
                 }
             }
-            catch (Exception ex)
+            catch (Exception)
             {
-                
-                return Json(new { Success = false, ErrorMessage = "Server Error!, Please contact admintrator" });
+                return Json(new { Success = false, ErrorMessage = "Server Error!, Please contact administrator" });
             }
         }
     }

@@ -13,6 +13,8 @@
 \\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\EntityLayer\bin\Debug\EntityLayer.exe.config
 \\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\EntityLayer\bin\Debug\EntityLayer.exe
 \\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\EntityLayer\bin\Debug\EntityLayer.pdb
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\EntityLayer\bin\Debug\EntityLayer.exe.CodeAnalysisLog.xml
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\EntityLayer\bin\Debug\EntityLayer.exe.lastcodeanalysissucceeded
 \\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\EntityLayer\bin\Debug\EntityFramework.dll
 \\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\EntityLayer\bin\Debug\EntityFramework.SqlServer.dll
 \\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\EntityLayer\bin\Debug\Microsoft.AspNet.Identity.Core.dll

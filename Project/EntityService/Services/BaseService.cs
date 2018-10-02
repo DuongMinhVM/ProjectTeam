@@ -5,6 +5,7 @@ using EntityLayer;
 using EntityService.IServices;
 using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Linq.Expressions;
 using System.Threading.Tasks;
 
@@ -68,26 +69,26 @@ namespace EntityService.Services
 
         public virtual async Task<IEnumerable<TViewModel>> GetAll()
         {
-            System.Linq.IQueryable<TModel> result = await _repository.GetAll();
-            return Mapper.Map<IEnumerable<TViewModel>>(result);
+            IQueryable<TModel> result = await _repository.GetAll();
+            return Mapper.Map<TModel[], IEnumerable<TViewModel>>(result.ToArray());
         }
 
         public virtual async Task<IEnumerable<TViewModel>> GetAll(string include)
         {
-            System.Linq.IQueryable<TModel> result = await _repository.GetAll(include);
-            return Mapper.Map<IEnumerable<TViewModel>>(result);
+            IQueryable<TModel> result = await _repository.GetAll(include);
+            return Mapper.Map<TModel[], IEnumerable<TViewModel>>(result.ToArray());
         }
 
         public virtual async Task<IEnumerable<TViewModel>> GetAll(int page, int pageCount)
         {
             System.Linq.IQueryable<TModel> result = await _repository.GetAll(page, pageCount);
-            return Mapper.Map<IEnumerable<TViewModel>>(result);
+            return Mapper.Map<TModel[], IEnumerable<TViewModel>>(result.ToArray());
         }
 
         public virtual async Task<IEnumerable<TViewModel>> GetAll(string include, string include2)
         {
             System.Linq.IQueryable<TModel> result = await _repository.GetAll(include, include2);
-            return Mapper.Map<IEnumerable<TViewModel>>(result);
+            return Mapper.Map<TModel[], IEnumerable<TViewModel>>(result.ToArray());
         }
 
         public virtual async Task<TViewModel> GetBy(Guid key)

@@ -10,6 +10,7 @@ namespace Project.APi.Configs
         {
             Mapper.Initialize(c =>
             {
+                c.AllowNullCollections = true;
                 c.CreateMap<CategoryEntity, CategoryViewModel>();
                 c.CreateMap<CountryEntity, CountryViewModel>();
                 c.CreateMap<MerchantEntity, MerchantViewModel>();

@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77ce039e-3032-41db-a0d1-d3eae16568e1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Angular App/app-store/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Angular App/app-store/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular App/app-store/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../Angular App/app-store/src/app/app.module.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../EntityLayer/bin/Debug/EntityLayer.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../EntityLayer/bin/Debug/EntityLayer.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../EntityLayer/bin/Debug/EntityLayer.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../EntityLayer/bin/Debug/EntityLayer.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../EntityLayer/obj/Debug/EntityLayer.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../EntityLayer/obj/Debug/EntityLayer.exe" afterDir="false" />
@@ -9,134 +11,31 @@
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Project/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Project/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Project/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.vs/Project/v15/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/Project/v15/.suo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/Project/v15/Server/sqlite3/storage.ide-shm" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/Project/v15/Server/sqlite3/storage.ide-shm" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.vs/Project/v15/Server/sqlite3/storage.ide-wal" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/Project/v15/Server/sqlite3/storage.ide-wal" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.vs/config/applicationhost.config" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/config/applicationhost.config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataAccessLayer/Repositorys/Repository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DataAccessLayer/Repositorys/Repository.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataAccessLayer/bin/Debug/DataAccessLayer.exe" beforeDir="false" afterPath="$PROJECT_DIR$/DataAccessLayer/bin/Debug/DataAccessLayer.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataAccessLayer/bin/Debug/DataAccessLayer.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/DataAccessLayer/bin/Debug/DataAccessLayer.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DataAccessLayer/bin/Debug/EntityLayer.exe" beforeDir="false" afterPath="$PROJECT_DIR$/DataAccessLayer/bin/Debug/EntityLayer.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DataAccessLayer/bin/Debug/EntityLayer.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/DataAccessLayer/bin/Debug/EntityLayer.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DataAccessLayer/obj/Debug/DataAccessLayer.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DataAccessLayer/obj/Debug/DataAccessLayer.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataAccessLayer/obj/Debug/DataAccessLayer.exe" beforeDir="false" afterPath="$PROJECT_DIR$/DataAccessLayer/obj/Debug/DataAccessLayer.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataAccessLayer/obj/Debug/DataAccessLayer.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/DataAccessLayer/obj/Debug/DataAccessLayer.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EntityService/bin/Debug/DataAccessLayer.exe" beforeDir="false" afterPath="$PROJECT_DIR$/EntityService/bin/Debug/DataAccessLayer.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EntityService/bin/Debug/DataAccessLayer.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/EntityService/bin/Debug/DataAccessLayer.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EntityService/EntityServiceLayer.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/EntityService/EntityServiceLayer.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/EntityService/bin/Debug/EntityLayer.exe" beforeDir="false" afterPath="$PROJECT_DIR$/EntityService/bin/Debug/EntityLayer.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/EntityService/bin/Debug/EntityLayer.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/EntityService/bin/Debug/EntityLayer.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EntityService/bin/Debug/EntityService.exe" beforeDir="false" afterPath="$PROJECT_DIR$/EntityService/bin/Debug/EntityService.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EntityService/bin/Debug/EntityService.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/EntityService/bin/Debug/EntityService.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EntityService/obj/Debug/EntityService.exe" beforeDir="false" afterPath="$PROJECT_DIR$/EntityService/obj/Debug/EntityService.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EntityService/obj/Debug/EntityService.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/EntityService/obj/Debug/EntityService.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EntityService/obj/Debug/EntityServiceLayer.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EntityService/obj/Debug/EntityServiceLayer.csproj.CoreCompileInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/EntityService/obj/Debug/EntityServiceLayer.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EntityService/obj/Debug/EntityServiceLayer.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project.APi/Project.APi.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Project.APi/Project.APi.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project.APi/bin/DataAccessLayer.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Project.APi/bin/DataAccessLayer.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project.APi/bin/DataAccessLayer.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Project.APi/bin/DataAccessLayer.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project.APi/Controllers/OrderController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Project.APi/Controllers/OrderController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project.APi/Controllers/UserController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Project.APi/Controllers/UserController.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Project.APi/bin/EntityLayer.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Project.APi/bin/EntityLayer.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Project.APi/bin/EntityLayer.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Project.APi/bin/EntityLayer.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project.APi/bin/EntityService.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Project.APi/bin/EntityService.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project.APi/bin/EntityService.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Project.APi/bin/EntityService.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Project.APi/bin/Project.APi.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Project.APi/bin/Project.APi.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Project.APi/bin/Project.APi.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Project.APi/bin/Project.APi.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project.APi/obj/Debug/Project.APi.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Project.APi/obj/Debug/Project.APi.csproj.CoreCompileInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Project.APi/obj/Debug/Project.APi.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Project.APi/obj/Debug/Project.APi.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Project.APi/obj/Debug/Project.APi.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Project.APi/obj/Debug/Project.APi.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Project.APi/obj/Debug/Project.APi.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Project.APi/obj/Debug/Project.APi.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/bin/Debug/AutoMapper.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/bin/Debug/AutoMapper.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/bin/Debug/AutoMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/bin/Debug/DataAccessLayer.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/bin/Debug/DataAccessLayer.exe.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/bin/Debug/DataAccessLayer.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/bin/Debug/EntityFramework.SqlServer.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/bin/Debug/EntityFramework.SqlServer.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/bin/Debug/EntityFramework.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/bin/Debug/EntityFramework.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/bin/Debug/EntityLayer.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/bin/Debug/EntityLayer.exe.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/bin/Debug/EntityLayer.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/bin/Debug/EntityService.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/bin/Debug/EntityService.exe.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/bin/Debug/EntityService.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/bin/Debug/Microsoft.AspNet.Identity.Core.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/bin/Debug/Microsoft.AspNet.Identity.Core.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/bin/Debug/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/bin/Debug/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/bin/Debug/Microsoft.IdentityModel.JsonWebTokens.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/bin/Debug/Microsoft.IdentityModel.JsonWebTokens.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/bin/Debug/Microsoft.IdentityModel.JsonWebTokens.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/bin/Debug/Microsoft.IdentityModel.Logging.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/bin/Debug/Microsoft.IdentityModel.Logging.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/bin/Debug/Microsoft.IdentityModel.Logging.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/bin/Debug/Microsoft.IdentityModel.Tokens.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/bin/Debug/Microsoft.IdentityModel.Tokens.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/bin/Debug/Microsoft.IdentityModel.Tokens.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/bin/Debug/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/bin/Debug/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/bin/Debug/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/bin/Debug/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/bin/Debug/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/bin/Debug/Microsoft.VisualStudio.TestPlatform.TestFramework.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/bin/Debug/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/bin/Debug/Newtonsoft.Json.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/bin/Debug/Newtonsoft.Json.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/bin/Debug/ProjectTeam_TestFunction.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/bin/Debug/ProjectTeam_TestFunction.dll.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/bin/Debug/ProjectTeam_TestFunction.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/bin/Debug/System.IdentityModel.Tokens.Jwt.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/bin/Debug/System.IdentityModel.Tokens.Jwt.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/bin/Debug/System.IdentityModel.Tokens.Jwt.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/bin/Debug/System.ValueTuple.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/bin/Debug/System.ValueTuple.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/bin/Debug/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/bin/Debug/roslyn/Microsoft.CSharp.Core.targets" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/bin/Debug/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/bin/Debug/roslyn/Microsoft.CodeAnalysis.CSharp.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/bin/Debug/roslyn/Microsoft.CodeAnalysis.Scripting.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/bin/Debug/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/bin/Debug/roslyn/Microsoft.CodeAnalysis.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/bin/Debug/roslyn/Microsoft.DiaSymReader.Native.amd64.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/bin/Debug/roslyn/Microsoft.DiaSymReader.Native.x86.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/bin/Debug/roslyn/Microsoft.Managed.Core.targets" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/bin/Debug/roslyn/Microsoft.VisualBasic.Core.targets" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/bin/Debug/roslyn/Microsoft.Win32.Primitives.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/bin/Debug/roslyn/System.AppContext.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/bin/Debug/roslyn/System.Collections.Immutable.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/bin/Debug/roslyn/System.Console.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/bin/Debug/roslyn/System.Diagnostics.DiagnosticSource.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/bin/Debug/roslyn/System.Diagnostics.FileVersionInfo.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/bin/Debug/roslyn/System.Diagnostics.StackTrace.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/bin/Debug/roslyn/System.Globalization.Calendars.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/bin/Debug/roslyn/System.IO.Compression.ZipFile.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/bin/Debug/roslyn/System.IO.Compression.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/bin/Debug/roslyn/System.IO.FileSystem.Primitives.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/bin/Debug/roslyn/System.IO.FileSystem.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/bin/Debug/roslyn/System.Net.Http.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/bin/Debug/roslyn/System.Net.Sockets.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/bin/Debug/roslyn/System.Reflection.Metadata.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/bin/Debug/roslyn/System.Runtime.InteropServices.RuntimeInformation.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/bin/Debug/roslyn/System.Security.Cryptography.Algorithms.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/bin/Debug/roslyn/System.Security.Cryptography.Encoding.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/bin/Debug/roslyn/System.Security.Cryptography.Primitives.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/bin/Debug/roslyn/System.Security.Cryptography.X509Certificates.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/bin/Debug/roslyn/System.Text.Encoding.CodePages.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/bin/Debug/roslyn/System.Threading.Tasks.Extensions.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/bin/Debug/roslyn/System.ValueTuple.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/bin/Debug/roslyn/System.Xml.ReaderWriter.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/bin/Debug/roslyn/System.Xml.XPath.XDocument.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/bin/Debug/roslyn/System.Xml.XPath.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/bin/Debug/roslyn/System.Xml.XmlDocument.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/bin/Debug/roslyn/VBCSCompiler.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/bin/Debug/roslyn/VBCSCompiler.exe.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/bin/Debug/roslyn/csc.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/bin/Debug/roslyn/csc.exe.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/bin/Debug/roslyn/csc.rsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/bin/Debug/roslyn/csi.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/bin/Debug/roslyn/csi.exe.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/bin/Debug/roslyn/csi.rsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/bin/Debug/roslyn/vbc.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/bin/Debug/roslyn/vbc.exe.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/bin/Debug/roslyn/vbc.rsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/obj/Debug/ProjectTeam_TestFunction.csproj.CopyComplete" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/obj/Debug/ProjectTeam_TestFunction.csproj.CoreCompileInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/obj/Debug/ProjectTeam_TestFunction.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectTeam_TestFunction/obj/Debug/ProjectTeam_TestFunction.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/obj/Debug/ProjectTeam_TestFunction.csprojAssemblyReference.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/obj/Debug/ProjectTeam_TestFunction.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectTeam_TestFunction/obj/Debug/ProjectTeam_TestFunction.pdb" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -233,7 +132,7 @@
     <session id="1104254849">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.8" value="1" />
@@ -246,7 +145,7 @@
           <entry key="catagoryentities" value="1" />
           <entry key="config" value="4" />
           <entry key="countryentities" value="1" />
-          <entry key="cs" value="80" />
+          <entry key="cs" value="82" />
           <entry key="iml" value="1" />
           <entry key="log" value="1" />
           <entry key="merchantentities" value="1" />
@@ -254,24 +153,24 @@
           <entry key="orderitementities" value="1" />
           <entry key="productentities" value="1" />
           <entry key="sql" value="1" />
-          <entry key="targets" value="1" />
+          <entry key="targets" value="2" />
           <entry key="userentities" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="C#" value="80" />
+          <entry key="C#" value="82" />
           <entry key="Config" value="5" />
           <entry key="Database Element" value="7" />
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="MsBuild targets file" value="1" />
+          <entry key="MsBuild targets file" value="2" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="Scratch" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="config" value="35" />
+          <entry key="config" value="46" />
           <entry key="cs" value="862" />
           <entry key="txt" value="11" />
         </counts>
@@ -279,7 +178,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="C#" value="862" />
-          <entry key="Config" value="35" />
+          <entry key="Config" value="46" />
           <entry key="PLAIN_TEXT" value="11" />
         </counts>
       </usages-collector>
@@ -287,33 +186,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7891C90E-6796-4E82-9737-658AA427BAE4/5c/4c4312d3/HttpTaskAsyncHandler.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="496">
-              <caret line="31" column="6" selection-start-line="31" selection-start-column="6" selection-end-line="31" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7891C90E-6796-4E82-9737-658AA427BAE4/b8/450f1f4f/HttpApplication.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="24592">
-              <caret line="1537" column="6" selection-start-line="1537" selection-start-column="6" selection-end-line="1537" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7891C90E-6796-4E82-9737-658AA427BAE4/c7/a260738f/HttpRuntime.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="7904">
-              <caret line="494" column="6" selection-start-line="494" selection-start-column="6" selection-end-line="494" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BBD0A9D3-A0D3-4909-9BE0-0550C37EBFB4/99/84292bfa/MonoWorkerRequest.cs">
           <provider selected="true" editor-type-id="text-editor">
@@ -362,8 +234,73 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.vs/config/applicationhost.config">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1359">
-              <caret line="288" column="116" lean-forward="true" selection-start-line="288" selection-start-column="116" selection-end-line="288" selection-end-column="116" />
+            <state relative-caret-position="183">
+              <caret line="153" column="77" selection-start-line="153" selection-start-column="77" selection-end-line="153" selection-end-column="77" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EntityService/Services/BaseService.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="320">
+              <caret line="101" column="57" lean-forward="true" selection-start-line="101" selection-start-column="57" selection-end-line="101" selection-end-column="57" />
+              <folding>
+                <marker date="1538317143000" expanded="false" signature="6:248" ph="..." />
+                <marker date="1538317143000" expanded="true" signature="282:5266" ph="{...}" />
+                <marker date="1538317143000" expanded="true" signature="419:5264" ph="{...}" />
+                <marker date="1538317143000" expanded="true" signature="588:709" ph="{...}" />
+                <marker date="1538317143000" expanded="true" signature="783:1043" ph="{...}" />
+                <marker date="1538317143000" expanded="true" signature="1120:1337" ph="{...}" />
+                <marker date="1538317143000" expanded="true" signature="1923:1992" ph="{...}" />
+                <marker date="1538317143000" expanded="true" signature="2584:2653" ph="{...}" />
+                <marker date="1538317143000" expanded="true" signature="3261:3330" ph="{...}" />
+                <marker date="1538317143000" expanded="true" signature="3408:3541" ph="{...}" />
+                <marker date="1538317143000" expanded="true" signature="3610:3774" ph="{...}" />
+                <marker date="1538317143000" expanded="true" signature="3857:4028" ph="{...}" />
+                <marker date="1538317143000" expanded="true" signature="4120:4299" ph="{...}" />
+                <marker date="1538317143000" expanded="true" signature="4399:4580" ph="{...}" />
+                <marker date="1538317143000" expanded="true" signature="4643:4770" ph="{...}" />
+                <marker date="1538317143000" expanded="true" signature="4838:4970" ph="{...}" />
+                <marker date="1538317143000" expanded="true" signature="5047:5258" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file:///Library/Frameworks/Mono.framework/Versions/5.12.0/lib/mono/msbuild/15.0/bin/Microsoft.Common.CurrentVersion.targets">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="499">
+              <caret line="2125" column="4" selection-start-line="2125" selection-start-column="4" selection-end-line="2125" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Project.APi/Controllers/UserController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="413">
+              <caret line="74" column="64" lean-forward="true" selection-start-line="74" selection-start-column="64" selection-end-line="74" selection-end-column="64" />
+              <folding>
+                <marker date="1538478624000" expanded="false" signature="6:159" ph="..." />
+                <marker date="1538478624000" expanded="true" signature="194:2273" ph="{...}" />
+                <marker date="1538478624000" expanded="true" signature="274:2271" ph="{...}" />
+                <marker date="1538478624000" expanded="true" signature="365:431" ph="{...}" />
+                <marker date="1538478624000" expanded="true" signature="573:2265" ph="{...}" />
+                <marker date="1538478624000" expanded="true" signature="599:2061" ph="{...}" />
+                <marker date="1538478624000" expanded="true" signature="656:903" ph="{...}" />
+                <marker date="1538478624000" expanded="true" signature="731:883" ph="{...}" />
+                <marker date="1538478624000" expanded="true" signature="958:1193" ph="{...}" />
+                <marker date="1538478624000" expanded="true" signature="1033:1173" ph="{...}" />
+                <marker date="1538478624000" expanded="true" signature="1248:1483" ph="{...}" />
+                <marker date="1538478624000" expanded="true" signature="1323:1463" ph="{...}" />
+                <marker date="1538478624000" expanded="true" signature="1596:1829" ph="{...}" />
+                <marker date="1538478624000" expanded="true" signature="1671:1809" ph="{...}" />
+                <marker date="1538478624000" expanded="true" signature="1850:2047" ph="{...}" />
+                <marker date="1538478624000" expanded="true" signature="1925:2027" ph="{...}" />
+                <marker date="1538478624000" expanded="true" signature="2094:2255" ph="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -409,6 +346,7 @@
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F3F2AA82-C3A0-4D48-8454-85CE37124803/a5/c1a944b7/Task.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/EntityService/Services/CategoryService.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/EntityService/IServices/IBaseService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Project.APi/Controllers/UserController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Project.APi/ToolDummyData/AutoGenerateData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F3F2AA82-C3A0-4D48-8454-85CE37124803/a8/a884370b/TaskAwaiter.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/69ABAFC3-D843-4AB5-8433-0D77CC8D6DA3/08/0d364062/TaskHelpersExtensions.cs" root0="SKIP_HIGHLIGHTING" />
@@ -463,6 +401,7 @@
         <option value="$PROJECT_DIR$/DataAccessLayer/EFDbContext.cs" />
         <option value="$PROJECT_DIR$/EntityService/ViewModels/CatagoryViewModel.cs" />
         <option value="$PROJECT_DIR$/EntityService/ViewModels/CategoryViewModel.cs" />
+        <option value="$PROJECT_DIR$/Project.APi/Controllers/UserController.cs" />
         <option value="$PROJECT_DIR$/.vs/config/applicationhost.config" />
       </list>
     </option>
@@ -492,6 +431,46 @@
             <path>
               <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
               <item name="Project" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Project" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="02. Service" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Project" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="02. Service" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="EntityServiceLayer" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Project" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="02. Service" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="EntityServiceLayer" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Services" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Project" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="03. DataAccess" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Project" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="03. DataAccess" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="DataAccessLayer" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Project" type="24d0babc:SolutionExplorerModelNode" />
+              <item name=".vs" type="9a108dff:SolutionExplorerFileNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Project" type="24d0babc:SolutionExplorerModelNode" />
+              <item name=".vs" type="9a108dff:SolutionExplorerFileNode" />
+              <item name="config" type="9a108dff:SolutionExplorerFileNode" />
             </path>
           </expand>
           <select />
@@ -585,12 +564,12 @@
       <updated>1538145915103</updated>
       <workItem from="1538145917246" duration="9641000" />
       <workItem from="1538209408222" duration="497000" />
-      <workItem from="1538473561734" duration="1199000" />
+      <workItem from="1538473561734" duration="2280000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11337000" />
+    <option name="totallyTimeSpent" value="12418000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -603,7 +582,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="837" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info id="Structure" order="1" sideWeight="0.5009311" side_tool="true" weight="0.2496318" />
@@ -614,10 +592,10 @@
       <window_info anchor="bottom" id="REST Client" order="4" sideWeight="0.49928468" weight="0.44237918" />
       <window_info anchor="bottom" id="Terminal" order="5" weight="0.32961586" />
       <window_info anchor="bottom" id="Event Log" order="6" sideWeight="0.50500715" side_tool="true" weight="0.21189591" />
-      <window_info anchor="bottom" id="Build" order="7" sideWeight="0.49499285" weight="0.21189591" />
+      <window_info anchor="bottom" id="Build" order="7" sideWeight="0.49499285" visible="true" weight="0.21052632" />
       <window_info anchor="bottom" id="Message" order="8" />
       <window_info anchor="bottom" id="Find" order="9" sideWeight="0.49928468" weight="0.32961586" />
-      <window_info anchor="bottom" id="Run" order="10" sideWeight="0.4985694" weight="0.32961586" />
+      <window_info anchor="bottom" id="Run" order="10" sideWeight="0.4985694" weight="0.32825485" />
       <window_info anchor="bottom" id="Debug" order="11" sideWeight="0.49928468" weight="0.43742254" />
       <window_info anchor="bottom" id="Cvs" order="12" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="13" weight="0.4" />
@@ -664,7 +642,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/DataAccessLayer/Migrations/201809260403318_db.cs" />
     <entry file="file://$PROJECT_DIR$/../EntityLayer/OrderEntity.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
@@ -715,13 +692,6 @@
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/Library/Logs/Rider2018.2/SolutionBuilder/JetBrainsLog.ReSharperBuild_2018_09_28_17_47_01_3421.log" />
-    <entry file="file:///Library/Frameworks/Mono.framework/Versions/5.12.0/lib/mono/msbuild/15.0/bin/Microsoft.Common.CurrentVersion.targets">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38240">
-          <caret line="2134" column="98" lean-forward="true" selection-start-line="2134" selection-start-column="98" selection-end-line="2134" selection-end-column="98" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Project.APi/ToolDummyData/AutoGenerateData.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
@@ -777,13 +747,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
           <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EntityService/Services/BaseService.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="26" column="28" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
         </state>
       </provider>
     </entry>
@@ -951,10 +914,69 @@
         </state>
       </provider>
     </entry>
+    <entry file="file:///Library/Frameworks/Mono.framework/Versions/5.12.0/lib/mono/msbuild/15.0/bin/Microsoft.Common.CurrentVersion.targets">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="499">
+          <caret line="2125" column="4" selection-start-line="2125" selection-start-column="4" selection-end-line="2125" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project.APi/Controllers/UserController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="74" column="64" lean-forward="true" selection-start-line="74" selection-start-column="64" selection-end-line="74" selection-end-column="64" />
+          <folding>
+            <marker date="1538478624000" expanded="false" signature="6:159" ph="..." />
+            <marker date="1538478624000" expanded="true" signature="194:2273" ph="{...}" />
+            <marker date="1538478624000" expanded="true" signature="274:2271" ph="{...}" />
+            <marker date="1538478624000" expanded="true" signature="365:431" ph="{...}" />
+            <marker date="1538478624000" expanded="true" signature="573:2265" ph="{...}" />
+            <marker date="1538478624000" expanded="true" signature="599:2061" ph="{...}" />
+            <marker date="1538478624000" expanded="true" signature="656:903" ph="{...}" />
+            <marker date="1538478624000" expanded="true" signature="731:883" ph="{...}" />
+            <marker date="1538478624000" expanded="true" signature="958:1193" ph="{...}" />
+            <marker date="1538478624000" expanded="true" signature="1033:1173" ph="{...}" />
+            <marker date="1538478624000" expanded="true" signature="1248:1483" ph="{...}" />
+            <marker date="1538478624000" expanded="true" signature="1323:1463" ph="{...}" />
+            <marker date="1538478624000" expanded="true" signature="1596:1829" ph="{...}" />
+            <marker date="1538478624000" expanded="true" signature="1671:1809" ph="{...}" />
+            <marker date="1538478624000" expanded="true" signature="1850:2047" ph="{...}" />
+            <marker date="1538478624000" expanded="true" signature="1925:2027" ph="{...}" />
+            <marker date="1538478624000" expanded="true" signature="2094:2255" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EntityService/Services/BaseService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="101" column="57" lean-forward="true" selection-start-line="101" selection-start-column="57" selection-end-line="101" selection-end-column="57" />
+          <folding>
+            <marker date="1538317143000" expanded="false" signature="6:248" ph="..." />
+            <marker date="1538317143000" expanded="true" signature="282:5266" ph="{...}" />
+            <marker date="1538317143000" expanded="true" signature="419:5264" ph="{...}" />
+            <marker date="1538317143000" expanded="true" signature="588:709" ph="{...}" />
+            <marker date="1538317143000" expanded="true" signature="783:1043" ph="{...}" />
+            <marker date="1538317143000" expanded="true" signature="1120:1337" ph="{...}" />
+            <marker date="1538317143000" expanded="true" signature="1923:1992" ph="{...}" />
+            <marker date="1538317143000" expanded="true" signature="2584:2653" ph="{...}" />
+            <marker date="1538317143000" expanded="true" signature="3261:3330" ph="{...}" />
+            <marker date="1538317143000" expanded="true" signature="3408:3541" ph="{...}" />
+            <marker date="1538317143000" expanded="true" signature="3610:3774" ph="{...}" />
+            <marker date="1538317143000" expanded="true" signature="3857:4028" ph="{...}" />
+            <marker date="1538317143000" expanded="true" signature="4120:4299" ph="{...}" />
+            <marker date="1538317143000" expanded="true" signature="4399:4580" ph="{...}" />
+            <marker date="1538317143000" expanded="true" signature="4643:4770" ph="{...}" />
+            <marker date="1538317143000" expanded="true" signature="4838:4970" ph="{...}" />
+            <marker date="1538317143000" expanded="true" signature="5047:5258" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.vs/config/applicationhost.config">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1359">
-          <caret line="288" column="116" lean-forward="true" selection-start-line="288" selection-start-column="116" selection-end-line="288" selection-end-column="116" />
+        <state relative-caret-position="183">
+          <caret line="153" column="77" selection-start-line="153" selection-start-column="77" selection-end-line="153" selection-end-column="77" />
         </state>
       </provider>
     </entry>

@@ -4,9 +4,6 @@ using EntityService.Services;
 using EntityService.ViewModels;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
 
 namespace ProjectTeam_TestFunction
@@ -15,6 +12,7 @@ namespace ProjectTeam_TestFunction
     public class UserTest
     {
         private readonly UserService _userService;
+
         public UserTest()
         {
             _userService = new UserService();
@@ -37,7 +35,7 @@ namespace ProjectTeam_TestFunction
                 UserName = "dahkdhs1111907664",
                 Password = "esajheasgeeqw"
             };
-            var result = await _userService.LoginUser(userViewModel);
+            string result = await _userService.LoginUser(userViewModel);
             Assert.IsNotNull(result);
         }
 
@@ -51,7 +49,7 @@ namespace ProjectTeam_TestFunction
                 UserName = "dahkdhs" + r.Next().ToString(),
                 Password = "esajheasgeeqw"
             };
-            var result = await _userService.RegisterAccountUser(userViewModel);
+            Microsoft.AspNet.Identity.IdentityResult result = await _userService.RegisterAccountUser(userViewModel);
             Assert.IsTrue(result.Succeeded);
         }
     }

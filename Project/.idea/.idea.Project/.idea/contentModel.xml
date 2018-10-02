@@ -94,6 +94,7 @@
         <e p="Services" t="Include">
           <e p="BaseService.cs" t="Include" />
           <e p="CategoryService.cs" t="Include" />
+          <e p="ProductService.cs" t="Include" />
           <e p="UserService.cs" t="Include" />
         </e>
         <e p="ViewModels" t="Include">

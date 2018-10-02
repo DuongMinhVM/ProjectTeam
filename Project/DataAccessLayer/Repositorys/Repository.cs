@@ -79,7 +79,7 @@ namespace DataAccessLayer.Repositorys
         public async Task<IQueryable<T>> GetAll()
         {
             System.Collections.Generic.List<T> result = await _dbSet.ToListAsync();
-            return result as IQueryable<T>;
+            return result.AsQueryable();
         }
 
         public async Task<IQueryable<T>> GetAll(int page, int pageCount)
