@@ -18,6 +18,41 @@ namespace Project.APi.Controllers
         }
 
         [HttpPost]
+        [Route("login")]
+        public async Task<IHttpActionResult> Login([FromBody] UserViewModel userViewModel)
+        {
+            try
+            {
+                if (userViewModel.UserName == null || userViewModel.Password == null)
+                {
+                    return Json(new
+                    {
+                        Success = false,
+                        ErrorMessage = "Username and Password cann't null !"
+                    });
+                }
+                string result = await _userService.LoginUser(userViewModel);
+                if (result == null)
+                {
+                    return Json(new
+                    {
+                        Success = false,
+                        ErrorMessage = "Username Or Password wrong, please login again!"
+                    });
+                }
+                return Json(new
+                {
+                    Success = true,
+                    Token = result
+                });
+            }
+            catch (Exception )
+            {
+                return Json(new { Success = false, ErrorMessage = "Server Error!, Please contact administrator" });
+            }
+        }
+
+        [HttpPost]
         [Route("register")]
         public async Task<IHttpActionResult> Register([FromBody] UserViewModel userViewModel)
         {

@@ -132,8 +132,6 @@
 \\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\Project.APi\bin\roslyn\vbc.rsp
 \\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\Project.APi\bin\roslyn\VBCSCompiler.exe
 \\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\Project.APi\bin\roslyn\VBCSCompiler.exe.config
-\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\Project.APi\bin\Project.APi.dll.CodeAnalysisLog.xml
-\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\Project.APi\bin\Project.APi.dll.lastcodeanalysissucceeded
 \\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\Project.APi\bin\AutoMapper.dll
 \\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\Project.APi\bin\Bogus.dll
 \\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\Project.APi\bin\DataAccessLayer.exe

@@ -1,0 +1,16 @@
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\EntityLayer\bin\Release\EntityLayer.exe.config
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\EntityLayer\bin\Release\EntityLayer.exe
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\EntityLayer\bin\Release\EntityLayer.pdb
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\EntityLayer\bin\Release\EntityFramework.dll
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\EntityLayer\bin\Release\EntityFramework.SqlServer.dll
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\EntityLayer\bin\Release\Microsoft.AspNet.Identity.Core.dll
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\EntityLayer\bin\Release\Microsoft.AspNet.Identity.EntityFramework.dll
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\EntityLayer\bin\Release\EntityFramework.xml
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\EntityLayer\bin\Release\EntityFramework.SqlServer.xml
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\EntityLayer\bin\Release\Microsoft.AspNet.Identity.Core.xml
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\EntityLayer\bin\Release\Microsoft.AspNet.Identity.EntityFramework.xml
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\EntityLayer\obj\Release\EntityLayer.csprojAssemblyReference.cache
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\EntityLayer\obj\Release\EntityLayer.csproj.CoreCompileInputs.cache
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\EntityLayer\obj\Release\EntityLayer.csproj.CopyComplete
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\EntityLayer\obj\Release\EntityLayer.exe
+\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\EntityLayer\obj\Release\EntityLayer.pdb
