@@ -154,6 +154,7 @@
     <Compile Include="Configs\JWTConfig.cs" />
     <Compile Include="Controllers\CategoryController.cs" />
     <Compile Include="Controllers\DummyDataController.cs" />
+    <Compile Include="Controllers\OrderController.cs" />
     <Compile Include="Controllers\UserController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
@@ -207,7 +208,7 @@
           <AutoAssignPort>True</AutoAssignPort>
           <DevelopmentServerPort>57362</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
-          <IISUrl>http://localhost:57359</IISUrl>
+          <IISUrl>http://localhost:5200</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
           <UseCustomServer>False</UseCustomServer>
           <CustomServerUrl>

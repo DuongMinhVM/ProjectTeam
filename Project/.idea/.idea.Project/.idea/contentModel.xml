@@ -34,6 +34,7 @@
         <e p="bin" t="ExcludeRecursive" />
         <e p="DataAccessLayer.csproj" t="IncludeRecursive" />
         <e p="EFDbContext.cs" t="Include" />
+        <e p="GlobalSuppressions.cs" t="Include" />
         <e p="IRepositorys" t="Include">
           <e p="IRepository.cs" t="Include" />
         </e>
@@ -44,6 +45,12 @@
           <e p="201809290801358_db.cs" t="Include" />
           <e p="201809290801358_db.Designer.cs" t="Include" />
           <e p="201809290801358_db.resx" t="Include" />
+          <e p="201809300558068_newdb.cs" t="Include" />
+          <e p="201809300558068_newdb.Designer.cs" t="Include" />
+          <e p="201809300558068_newdb.resx" t="Include" />
+          <e p="201809301031129_editUser.cs" t="Include" />
+          <e p="201809301031129_editUser.Designer.cs" t="Include" />
+          <e p="201809301031129_editUser.resx" t="Include" />
           <e p="Configuration.cs" t="Include" />
         </e>
         <e p="obj" t="ExcludeRecursive" />
@@ -63,6 +70,12 @@
         <e p="App.config" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="EntityServiceLayer.csproj" t="IncludeRecursive" />
+        <e p="ExtensionMethods" t="Include">
+          <e p="ExpressionMapper.cs" t="Include" />
+          <e p="IQueryableMethod.cs" t="Include" />
+          <e p="ParameterReplacer.cs" t="Include" />
+        </e>
+        <e p="GlobalSuppressions.cs" t="Include" />
         <e p="IServices" t="Include">
           <e p="IBaseService.cs" t="Include" />
           <e p="ICategoryService.cs" t="Include" />
@@ -81,6 +94,7 @@
         <e p="Services" t="Include">
           <e p="BaseService.cs" t="Include" />
           <e p="CategoryService.cs" t="Include" />
+          <e p="UserService.cs" t="Include" />
         </e>
         <e p="ViewModels" t="Include">
           <e p="BaseViewModel.cs" t="Include" />
@@ -105,19 +119,26 @@
         <e p="bin" t="ExcludeRecursive" />
         <e p="Configs" t="Include">
           <e p="AutoMapperConfig.cs" t="Include" />
+          <e p="JWTConfig.cs" t="Include" />
         </e>
         <e p="Controllers" t="Include">
           <e p="CategoryController.cs" t="Include" />
+          <e p="DummyDataController.cs" t="Include" />
+          <e p="OrderController.cs" t="Include" />
+          <e p="UserController.cs" t="Include" />
         </e>
         <e p="Global.asax" t="Include" />
         <e p="Global.asax.cs" t="Include" />
         <e p="GlobalSuppressions.cs" t="Include" />
+        <e p="GlobalSuppressions2.cs" t="Include" />
+        <e p="LogBackup" t="Include" />
         <e p="Models" t="Include">
           <e p="CategoryAddOutput.cs" t="Include" />
         </e>
         <e p="obj" t="ExcludeRecursive" />
         <e p="packages.config" t="Include" />
         <e p="Project.APi.csproj" t="IncludeRecursive" />
+        <e p="Project.APi.ruleset" t="Include" />
         <e p="Properties" t="Include">
           <e p="AssemblyInfo.cs" t="Include" />
         </e>
@@ -130,6 +151,7 @@
       </e>
       <e p="Project.sln" t="IncludeFlat" />
       <e p="ProjectTeam_TestFunction" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="obj" t="ExcludeRecursive" />
         <e p="packages.config" t="Include" />
@@ -138,6 +160,7 @@
           <e p="AssemblyInfo.cs" t="Include" />
         </e>
         <e p="UnitTest1.cs" t="Include" />
+        <e p="UserTest.cs" t="Include" />
       </e>
     </e>
   </component>
