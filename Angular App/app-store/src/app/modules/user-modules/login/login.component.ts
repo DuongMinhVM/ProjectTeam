@@ -56,7 +56,7 @@ export class LoginComponent implements OnInit, OnDestroy {
       });
     } else if ((password.value as string).length < 8) {
       password.setErrors({
-        error: 'Password must be at least 4 characters long.'
+        error: 'Password must be at least 8 characters long.'
       });
     }
   }
