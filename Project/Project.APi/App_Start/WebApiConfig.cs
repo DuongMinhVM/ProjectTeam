@@ -3,8 +3,6 @@ using System.Net.Http.Headers;
 using System.Web.Http;
 using System.Web.Http.Cors;
 
-[assembly: log4net.Config.XmlConfigurator(ConfigFile = "Web.config", Watch = true)]
-
 namespace Project.APi
 {
     public static class WebApiConfig

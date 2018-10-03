@@ -37,28 +37,25 @@ namespace EntityService.Services
             return await _unitOfWork.CommitAsync() > 0 ? Mapper.Map<TViewModel>(mapper) : null;
         }
 
-#pragma warning disable CS1998 // This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.
-
         public virtual async Task<bool> ExistsAsync(Expression<Func<TViewModel, bool>> predicate)
-#pragma warning restore CS1998 // This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.
         {
-            throw new NotImplementedException();
+            Expression<Func<TModel, bool>> express = Mapper.Map<Expression<Func<TModel, bool>>>(predicate);
+            bool result = await ExistsAsync(predicate);
+            return result;
         }
-
-#pragma warning disable CS1998 // This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.
 
         public async Task<IEnumerable<TViewModel>> FindBy(Expression<Func<TViewModel, bool>> predicate)
-#pragma warning restore CS1998 // This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.
         {
-            throw new NotImplementedException();
+            Expression<Func<TModel, bool>> express = Mapper.Map<Expression<Func<TModel, bool>>>(predicate);
+            IEnumerable<TViewModel> result = await FindBy(predicate);
+            return result;
         }
 
-#pragma warning disable CS1998 // This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.
-
         public async Task<IEnumerable<TViewModel>> FindBy(Expression<Func<TViewModel, bool>> predicate, string include)
-#pragma warning restore CS1998 // This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.
         {
-            throw new NotImplementedException();
+            Expression<Func<TModel, bool>> express = Mapper.Map<Expression<Func<TModel, bool>>>(predicate);
+            IEnumerable<TViewModel> result = await FindBy(predicate, include);
+            return result;
         }
 
         public virtual async Task<TViewModel> Get(params object[] keyValues)
@@ -81,13 +78,13 @@ namespace EntityService.Services
 
         public virtual async Task<IEnumerable<TViewModel>> GetAll(int page, int pageCount)
         {
-            System.Linq.IQueryable<TModel> result = await _repository.GetAll(page, pageCount);
+            IQueryable<TModel> result = await _repository.GetAll(page, pageCount);
             return Mapper.Map<TModel[], IEnumerable<TViewModel>>(result.ToArray());
         }
 
         public virtual async Task<IEnumerable<TViewModel>> GetAll(string include, string include2)
         {
-            System.Linq.IQueryable<TModel> result = await _repository.GetAll(include, include2);
+            IQueryable<TModel> result = await _repository.GetAll(include, include2);
             return Mapper.Map<TModel[], IEnumerable<TViewModel>>(result.ToArray());
         }
 

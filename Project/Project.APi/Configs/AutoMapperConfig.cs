@@ -11,12 +11,18 @@ namespace Project.APi.Configs
             Mapper.Initialize(c =>
             {
                 c.AllowNullCollections = true;
-                c.CreateMap<CategoryEntity, CategoryViewModel>();
-                c.CreateMap<CountryEntity, CountryViewModel>();
-                c.CreateMap<MerchantEntity, MerchantViewModel>();
-                c.CreateMap<OrderEntity, OrderViewModel>();
-                c.CreateMap<ProductEntity, ProductViewModel>();
-                c.CreateMap<UserEntity, UserViewModel>();
+                c.CreateMap<CategoryEntity, CategoryViewModel>()
+                .ForMember(dto => dto.Id, conf => conf.MapFrom(x => x.Id));
+                c.CreateMap<CountryEntity, CountryViewModel>()
+                .ForMember(dto => dto.Id, conf => conf.MapFrom(x => x.Id));
+                c.CreateMap<MerchantEntity, MerchantViewModel>()
+                .ForMember(dto => dto.Id, conf => conf.MapFrom(x => x.Id));
+                c.CreateMap<OrderEntity, OrderViewModel>()
+                .ForMember(dto => dto.Id, conf => conf.MapFrom(x => x.Id));
+                c.CreateMap<ProductEntity, ProductViewModel>()
+                .ForMember(dto => dto.Id, conf => conf.MapFrom(x => x.Id));
+                c.CreateMap<UserEntity, UserViewModel>()
+                .ForMember(dto => dto.Id, conf => conf.MapFrom(x => x.Id));
             });
         }
     }

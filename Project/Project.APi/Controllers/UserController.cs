@@ -1,6 +1,7 @@
 ﻿using EntityService.IServices;
 using EntityService.Services;
 using EntityService.ViewModels;
+using log4net;
 using System;
 using System.Threading.Tasks;
 using System.Web.Http;
@@ -11,6 +12,7 @@ namespace Project.APi.Controllers
     public class UserController : ApiController
     {
         private readonly IUserService _userService;
+        private readonly ILog _iLog = LogManager.GetLogger(nameof(UserController));
 
         public UserController()
         {
@@ -46,8 +48,10 @@ namespace Project.APi.Controllers
                     Token = result
                 });
             }
-            catch (Exception )
+            catch (Exception ex)
             {
+                _iLog.Error(nameof(UserController), ex);
+                GC.SuppressFinalize(obj: this);
                 return Json(new { Success = false, ErrorMessage = "Server Error!, Please contact administrator" });
             }
         }
@@ -100,8 +104,10 @@ namespace Project.APi.Controllers
                     });
                 }
             }
-            catch (Exception)
+            catch (Exception ex)
             {
+                _iLog.Error(nameof(UserController), ex);
+                GC.SuppressFinalize(obj: this);
                 return Json(new { Success = false, ErrorMessage = "Server Error!, Please contact administrator" });
             }
         }

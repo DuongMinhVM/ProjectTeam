@@ -4,7 +4,8 @@
 
 export const environment = {
   production: false,
-  endPoint: 'http://192.168.1.0:5200/'
+  endPoint: 'http://192.168.1.0:5200/',
+  keyToken: 'tokenUserKeyShop'
 };
 
 /*

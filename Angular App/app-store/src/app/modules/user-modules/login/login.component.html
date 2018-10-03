@@ -1,0 +1,42 @@
+<div class="wrapper">
+  <div class="container">
+    <h1>Welcome To My Shop</h1>
+    <form class="form" [formGroup]="formLogin">
+      <input type="text" [ngClass]="(formLogin.get('username').invalid && (formLogin.get('username').dirty || formLogin.get('username').touched))? 'invalid-input' : ''"
+        formControlName="username" placeholder="Username">
+      <div *ngIf="formLogin.get('username').invalid && (formLogin.get('username').dirty || formLogin.get('username').touched)">
+        <div class="invalid">{{ formLogin.get('username').errors['error'] }}</div>
+      </div>
+      <input type="password" [ngClass]="(formLogin.get('password').invalid && (formLogin.get('password').dirty || formLogin.get('password').touched))? 'invalid-input' : ''"
+        formControlName="password" placeholder="Password">
+      <div *ngIf="formLogin.get('password').invalid && (formLogin.get('password').dirty || formLogin.get('password').touched)">
+        <div class="invalid">{{ formLogin.get('password').errors['error'] }}</div>
+      </div>
+      <button type="submit" id="login-button" (keyup.enter)="submitLogin()" (click)="submitLogin()">Login</button>
+    </form>
+  </div>
+
+  <ul class="bg-bubbles">
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+  </ul>
+</div>

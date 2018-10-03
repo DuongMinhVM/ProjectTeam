@@ -99,7 +99,6 @@
     <Compile Include="ExtensionMethods\ExpressionMapper.cs" />
     <Compile Include="ExtensionMethods\IQueryableMethod.cs" />
     <Compile Include="ExtensionMethods\ParameterReplacer.cs" />
-    <Compile Include="GlobalSuppressions.cs" />
     <Compile Include="IServices\IBaseService.cs" />
     <Compile Include="IServices\ICategoryService.cs" />
     <Compile Include="IServices\ICountryService.cs" />

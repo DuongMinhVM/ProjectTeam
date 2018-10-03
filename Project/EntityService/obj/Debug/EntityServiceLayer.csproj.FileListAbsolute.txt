@@ -28,8 +28,6 @@
 \\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\EntityService\bin\Debug\EntityService.exe.config
 \\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\EntityService\bin\Debug\EntityService.exe
 \\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\EntityService\bin\Debug\EntityService.pdb
-\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\EntityService\bin\Debug\EntityService.exe.CodeAnalysisLog.xml
-\\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\EntityService\bin\Debug\EntityService.exe.lastcodeanalysissucceeded
 \\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\EntityService\bin\Debug\AutoMapper.dll
 \\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\EntityService\bin\Debug\DataAccessLayer.exe
 \\Mac\AllFiles\Volumes\DATA\My Project\ProjectTeam\Project\EntityService\bin\Debug\EntityFramework.dll
